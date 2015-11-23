@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+<style>
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 37%}
+    50%{background-position:100% 64%}
+    100%{background-position:0% 37%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 37%}
+    50%{background-position:100% 64%}
+    100%{background-position:0% 37%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 37%}
+    50%{background-position:100% 64%}
+    100%{background-position:0% 37%}
+	
+}
+
+@-webkit-keyframes color-change {
+        0% { color: black; }
+        50% { color: white; }
+     
+
+
+	
+
+</style>
