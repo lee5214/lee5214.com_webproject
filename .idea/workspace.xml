@@ -2,128 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f712740-36ad-4c59-b477-d4071d639c32" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/font/6-Matematica-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/6-Matematica-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/font/6-Matematica-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/Cage The Elephant - Ain't No Rest For The Wicked.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/font/Iron.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Iron.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/font/Iron.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-bridge.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg23.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/bg9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/countryview.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hackerStyle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.sublime-project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/pace-load.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/palace.mov" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/palace.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/style-main.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/style-nav.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/styles.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/styles.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sun.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/img/test2-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/img/test2-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/img/test2-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/img/test2-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/img/test2-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/img/test2-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/img/test2-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/img/test2-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (10).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (12).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (14).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (15).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (24).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (25).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (26).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (31).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (32).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (33).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (34).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (35).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (36).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (38).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (7).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (8).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/animation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/bg.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/bg.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/dataurl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/_notes/dwsync.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/font/_notes/dwsync.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/img/_notes/dwsync.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/_notes/dwsync.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/font/_notes/dwsync.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/img/_notes/dwsync.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.sublime-workspace" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jQuery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lee5214-2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/pace-load.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/pace-load.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/pace-load.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/pace.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p1/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/stopExecutionOnTimeout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-nav.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-nav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/style-nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/styles.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/test" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zifuSign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css.map" afterPath="$PROJECT_DIR$/css/styles.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.sublime-workspace" afterPath="$PROJECT_DIR$/index.sublime-workspace" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/styles.scss" afterPath="$PROJECT_DIR$/sass/styles.scss" />
     </list>
     <ignored path="lee5214-2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -140,10 +27,216 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="lee5214-2" />
+    <favorites_list name="lee5214-2">
+      <favorite_root url="file://$PROJECT_DIR$" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/js" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/js/main.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/js/pace.min.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/js/animation.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/js/modernizr.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/js/jQuery.min.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/js/bootstrap.min.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/js/stopExecutionOnTimeout.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/p1" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/p1/img" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/p1/img/_notes" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/p1/img/_notes/dwsync.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/p1/img/test2-1.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/p1/img/test2-2.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/p1/img/test2-3.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/p1/img/test2-4.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/p1/font" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/p1/font/_notes" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/p1/font/_notes/dwsync.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/p1/font/Iron.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/p1/font/6-Matematica-Regular.otf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/p1/_notes" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/p1/_notes/dwsync.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/p1/bg.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/p1/reset.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/p1/index.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/css" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/css/styles.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/css/.sass-cache" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/css/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/css/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/style.scssc" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/css/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/styles.scssc" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/css/dataurl.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/css/default.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/css/bootstrap.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/css/normalize.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/css/pace-load.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/css/style-nav.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/css/styles.css.map" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/css/pace-load.css.map" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/css/style-nav.css.map" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/img" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/img/bgimg" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg1.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg2.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg3.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg4.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg5.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg6.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg7.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg8.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg9.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg10.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg11.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg12.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg13.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg14.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg15.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg16.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg17.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg18.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg19.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg20.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg21.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg22.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg23.JPG" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/bg24.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (7).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (8).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (10).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (12).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (14).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (15).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (24).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (25).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (26).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (31).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (32).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (33).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (34).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (35).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (36).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/img/bgimg/【20150727世界那么大】 (38).jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/img/sun.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/img/palace.mov" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/img/palace.mp4" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/img/bg-bridge.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/img/countryview.mp4" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/img/hackerStyle.gif" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/sass" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/sass/test" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/sass/styles.scss" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/sass/pace-load.scss" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/sass/style-nav.scss" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/.name" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/vcs.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/lee5214-2.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/about" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/about/img" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/about/img/_notes" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/about/img/_notes/dwsync.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/about/img/test2-1.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/about/img/test2-2.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/about/img/test2-3.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/about/img/test2-4.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/about/font" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/about/font/_notes" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/about/font/_notes/dwsync.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/about/font/Iron.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/about/font/6-Matematica-Regular.otf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/about/_notes" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/about/_notes/dwsync.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/about/bg.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/about/reset.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/about/about.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/about/index.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/fonts" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/fonts/Iron.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/fonts/icomoon.eot" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/fonts/icomoon.svg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/fonts/icomoon.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/fonts/icomoon.woff" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/fonts/6-Matematica-Regular.otf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/music" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/music/Cage The Elephant - Ain't No Rest For The Wicked.mp3" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/projects" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        <favorite_root url="file://$PROJECT_DIR$/zifuSign" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/testjs.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/index.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/.sass-cache" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e" module="lee5214-2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/style.scssc" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/styles.scssc" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/pace-load.scssc" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/style-nav.scssc" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.sass-cache/6c7aad8749dd1bbf7ce4d34cc0944dbdc517173e/style-main.scssc" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/.gitattributes" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/index.sublime-project" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/index.sublime-workspace" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3708087">
+              <caret line="77" column="71" selection-start-line="77" selection-start-column="71" selection-end-line="77" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/styles.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3333333">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.642857">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,19 +244,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/sass/styles.scss" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="-1374" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
@@ -189,9 +281,12 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -200,21 +295,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lee5214-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lee5214-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lee5214-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lee5214-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="4.1.1" />
+    <property name="js-jscs-nodeInterpreter" value="D:\APP\NodeJS\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lee5214-2/index.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -228,13 +351,6 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
@@ -245,14 +361,43 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63343/lee5214-2/index.html">
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -268,27 +413,35 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11713031" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26456693" sideWeight="0.50292826" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26456693" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20278184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26456693" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.018927446" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -304,8 +457,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6693767">
-          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -314,6 +467,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.4634147">
           <caret line="292" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.642857">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3333333">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3708087">
+          <caret line="77" column="71" selection-start-line="77" selection-start-column="71" selection-end-line="77" selection-end-column="71" />
           <folding />
         </state>
       </provider>
