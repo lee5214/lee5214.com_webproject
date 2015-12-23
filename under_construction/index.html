@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1"> 
+		<title>html5 canvas under construction</title>
+		<meta name="description" content="Examples for creative website header animations using Canvas and JavaScript" />
+		<meta name="keywords" content="header, canvas, animated, creative, inspiration, javascript" />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="../favicon.ico">
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div class="container demo-1 demo-2">
+			<div class="content">
+				<div id="large-header" class="large-header">
+					<canvas id="demo-canvas"></canvas>
+					<h1 class="main-title">Lee5214 <span class="thin">request denied 
+					</span><br/>
+					<span class="sub-title">currently under construction</span>
+
+					</h1>
+
+				</div>
+				<div class="codrops-header">
+					<h1>Wish I have more time.... <span>why humans need sleep or money</span></h1>
+				</div>
+			</div>
+		</div>
+		<script src="js/TweenLite.min.js"></script>
+		<script src="js/EasePack.min.js"></script>
+		<script src="js/rAF.js"></script>
+		<!--This randomly implement different animation script-->
+		<script> 
+		var script = document.createElement ("script");
+ 		script.type = "text/javascript";
+ 		var random= Math.random()*2;
+ 		script.src = random>1?"js/demo-1.js":"js/demo-2.js"; 
+ 		document.body.appendChild(script);
+		</script>
+	</body>
+</html>

@@ -77,7 +77,7 @@ var CustomStyle = (function CustomStyleClosure() {
     if (typeof style[propName] === 'string') {
       return (_cache[propName] = propName);
     }
- 
+
     // capitalize
     uPropName = propName.charAt(0).toUpperCase() + propName.slice(1);
 
