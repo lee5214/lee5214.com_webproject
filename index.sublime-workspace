@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"format",
+				"format2"
+			],
+			[
+				"def_c",
+				"def_ContackName_colNum〔variable〕"
+			],
+			[
 				"re",
 				"removeDuplicates"
 			],
@@ -72,142 +80,19 @@
 	"buffers":
 	[
 		{
-			"file": "/D/WebBuild/py1.py",
+			"file": "/D/WebBuild/python_practice/1.py",
 			"settings":
 			{
-				"buffer_size": 13,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/Documents/Downloads/oasislawgroup.wordpress.2015-11-10 (1).xml",
-			"settings":
-			{
-				"buffer_size": 332515,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "/* --- TABLE OF CONTENTS --- */\n\n/*\n1. Preloader\n2. CSS Reset\n3. General Styles\n4. Intro\n5. About\n6. Portfolio\n7. Testimonials\n8. Video\n9. Download our app\n10. Contact\n11. Footer\n12. Responsive Main Menu\n13. Single Page Project\n14. Portfolio Page\n15. Media Queries\n16. Slider\n17. Parallax\n18. Contact Form 7 Styling\n19. Default WordPress Styling\n20. WpAdminBar Fixes\n21. Widgets\n*/\n\nhtml,\nbody,\ndiv,\nspan,\napplet,\nobject,\niframe,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\np,\nblockquote,\npre,\na,\nabbr,\nacronym,\naddress,\nbig,\ncite,\ncode,\ndel,\ndfn,\nem,\nimg,\nins,\nkbd,\nq,\ns,\nsamp,\nsmall,\nstrike,\nstrong,\nsub,\nsup,\ntt,\nvar,\nb,\nu,\ni,\ncenter,\ndl,\ndt,\ndd,\nol,\nul,\nli,\nfieldset,\nform,\nlabel,\nlegend,\ntable,\ncaption,\ntbody,\ntfoot,\nthead,\ntr,\nth,\ntd,\narticle,\naside,\ncanvas,\ndetails,\nembed,\nfigure,\nfigcaption,\nfooter,\nheader,\nhgroup,\nmenu,\nnav,\noutput,\nruby,\nsection,\nsummary,\ntime,\nmark,\naudio,\nvideo {\n  border: 0;\n  font: inherit;\n  font-size: 100%;\n  margin: 0;\n  padding: 0;\n  vertical-align: baseline;\n}\narticle,\naside,\ndetails,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmenu,\nnav,\nsection {\n  display: block;\n}\nbody {\n  line-height: 1;\n  overflow: hidden;\n  overflow-x: hidden;\n}\nol,\nul {\n  list-style: none;\n}\nblockquote,\nq {\n  quotes: none;\n}\nblockquote:before,\nblockquote:after,\nq:before,\nq:after {\n  content: none;\n}\ntable {\n  border-collapse: collapse;\n  border-spacing: 0;\n}\n::-webkit-input-placeholder {\n  color: #363636;\n}\n:-moz-placeholder {\n  color: #363636;\n}\n::-moz-placeholder {\n  color: #363636;\n}\n:-ms-input-placeholder {\n  color: #363636;\n}\nhtml {\n  -ms-text-size-adjust: 100%;\n  -webkit-font-smoothing: antialiased;\n  -webkit-text-size-adjust: 100%;\n  font-size: 100%;\n  overflow-x: hidden;\n  overflow-y: scroll;\n}\n.container-fluid {\n  padding-left: 0!important;\n  padding-right: 0!important;\n}\n\n\na {\n  text-decoration: none;\n}\na:hover {\n  color: #2ecc71 !important;\n}\na:focus {\n  color: #1b1b1b!important;\n  text-decoration: none;\n}\n* {\n  -moz-box-sizing: border-box;\n  -webkit-box-sizing: border-box;\n  box-sizing: border-box;\n  outline: none;\n}\n::selection {\n  background: #2ecc71;\n  color: #FFF;\n}\n::-moz-selection {\n  background: #2ecc71;\n  color: #FFF;\n}\n/*--------------------------------------------------------------\n# Typography\n--------------------------------------------------------------*/\nbody {\n    font-size: 100%;\n    font-family: 'Source Sans Pro', sans-serif;\n}\n\nbody, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {\n    font-size-adjust: 0.5; }\n\nh1, h2, h3, h4, h5, h6 {\n    clear: both; }\n\nh1 {\n    font-size: 32px;\n    font-size: 2rem;\n    line-height: 1.25; }\n\n@media (min-width: 480px) {\n    h1 {\n        font-size: 40px;\n        font-size: 2.5rem;\n        /* 2.5x body copy size = 40px */\n        line-height: 18px;\n        line-height: 1.125rem; } }\n@media (min-width: 992px) {\n    h1 {\n        font-size: 48px;\n        font-size: 3rem;\n        /* 3x body copy size = 48px */\n        line-height: 1.05;\n        /* keep to a multiple of the 20px line height and something more appropriate for display headings */ } }\nh2 {\n    font-size: 26px;\n    font-size: 1.625rem;\n    /* 1.625x body copy size = 26px */\n    line-height: 1.15384615;\n    /* 30px / 26px */ }\n\n@media (min-width: 480px) {\n    h2 {\n        font-size: 32px;\n        font-size: 2rem;\n        /* 2x body copy size = 32px */\n        line-height: 1.25; } }\n@media (min-width: 992px) {\n    h2 {\n        font-size: 36px;\n        font-size: 2.25rem;\n        /* 2.25x body copy size = 36px */\n        line-height: 1.25; } }\nh3 {\n    font-size: 22px;\n    font-size: 1.375rem;\n    /* 1.375x body copy size = 22px */\n    line-height: 1.13636364;\n    /* 25px / 22px */ }\n\n@media (min-width: 480px) {\n    h3 {\n        font-size: 24px;\n        font-size: 1.5rem;\n        /* 1.5x body copy size = 24px */\n        line-height: 1.25; } }\n@media (min-width: 992px) {\n    h3 {\n        font-size: 28px;\n        font-size: 1.75rem;\n        /* 1.75x body copy size = 28px */\n        line-height: 1.25; } }\nh4 {\n    font-size: 18px;\n    font-size: 1.125rem;\n    /* 1.125x body copy size = 18px */\n    line-height: 1.11111111; }\n\n@media (min-width: 480px) {\n    h4 {\n        line-height: 1.22222222;\n        /* (22px / 18px */ } }\nblockquote {\n    font-size: 20px;\n    font-size: 1.25rem;\n    /* 20px / 16px */\n    line-height: 1.25;\n    /* 25px / 20px */ }\n\n@media (min-width: 480px) {\n    blockquote {\n        font-size: 24px;\n        font-size: 1.5rem;\n        /* 24px / 16px = */\n        line-height: 1.45833333;\n        /* 35px / 24px */ } }\nh5,\nh6 {\n    font-size: 16px;\n    font-size: 1rem;\n    line-height: 1.25; }\n\np {\n    margin-bottom: 1.5em;\n    font-size: 100%;\n    line-height: 1.25; }\n\ndfn, cite, em, i {\n    font-style: italic; }\n\nblockquote {\n    margin: 0 1.5em; }\n\naddress {\n    margin: 0 0 1.5em; }\n\npre {\n    background: #eee;\n    font-family: \"Courier 10 Pitch\", Courier, monospace;\n    font-size: 15px;\n    font-size: 0.9375rem;\n    line-height: 1.25;\n    margin-bottom: 1.6em;\n    max-width: 100%;\n    overflow: auto;\n    padding: 1.6em; }\n\ncode, kbd, tt, var {\n    font-family: Monaco, Consolas, \"Andale Mono\", \"DejaVu Sans Mono\", monospace;\n    font-size: 15px;\n    font-size: 0.9375rem; }\n\nabbr, acronym {\n    border-bottom: 1px dotted #333;\n    cursor: help; }\n\nmark, ins {\n    background: #fff9c0;\n    text-decoration: none; }\n\nbig {\n    font-size: 125%; }\n\nsmall {\n    font-size: 12px;\n    font-size: 0.75rem;\n    line-height: 1; }\n.about-text-heading {\n  font-family: Source Sans Pro, sans-serif;\n  font-size: 22px;\n  font-weight: 600;\n}\nh4,\n.pdf-icon,\n.play-icon {\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 13px;\n  text-transform: uppercase;\n}\n\nblockquote {\n  background: #FFF;\n  border-left: 5px solid #2ecc71;\n  margin: 1.5em 10px;\n  padding: .5em 10px;\n  quotes: \\201C\\201D\\2018\\2019;\n  font-size: 16px;\n  font-family: 'Open Sans';\n  line-height: 1.5;\n}\nblockquote:before {\n  color: #2ecc71;\n  content: open-quote;\n  font-size: 4em;\n  line-height: .1em;\n  margin-right: .25em;\n  vertical-align: -.4em;\n}\n\n.section-heading span {\n  color: #2ecc71;\n  display: block;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 16px;\n  font-weight: 600;\n  margin-top: 5px;\n}\n.intro-title,\n.intro-tagline {\n  margin-bottom: 35px;\n}\n\n\n    .intro-title,\n    .intro-title a {\n        font-size: 36px;\n        line-height: 1.5;\n        color: #FFF;\n        font-family: 'Source Sans Pro';\n    }\n\n.intro-tagline a {\n  color: #FFF;\n  text-decoration: underline;\n  display: inline-block;\n  margin: 0 5px;\n}\n.intro-tagline a:hover {\n  text-decoration: none;\n  opacity: .75;\n}\n\nh1.intro-title {\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 46px;\n  font-weight: 400;\n  letter-spacing: -1px;\n}\np {\n  color: #363636;\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 16px;\n  line-height: 1.8;\n}\n.intro-tagline {\n  font-family: Source Sans Pro, Arial, sans-serif;\n  font-size: 18px;\n  font-weight: 300;\n  line-height: 1.75;\n  margin-bottom: 35px;\n}\n.intro-service-text,\n.about-text,\n.testimonials-text,\n.app-feature-text,\n.app-testimonial-text,\n.footer-descr,\n.tweet {\n  color: #363636;\n  font-size: 16px;\n}\n\n    .intro-service-text {\n        color: #FFF;\n    }\n\n.intro-title,\n.intro-service-title,\n#intro h4,\n#intro p,\n.logo,\n.main-navigation a {\n  color: #fff;\n}\n\n.intro-title.mt-black-title {\n  color: #000;\n}\n\n.intro-service-title {\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 16px;\n  font-weight: 600;\n  margin-bottom: 5px;\n  text-transform: capitalize;\n}\n.logo-footer {\n  color: #fff;\n  display: block;\n  margin-bottom: 15px;\n}\n.logo,\n.logo a {\n  font-family: Source Sans Pro, sans-serif;\n  font-size: 22px;\n  font-weight: 300;\n  text-transform: uppercase;\n}\n.logo a:hover {\n  color: #FFF;\n}\n.logo img {\n  height: auto;\n  max-width: 125px;\n  margin: 0;\n padding: 0;\n}\n.main-navigation a,\n.mobile-nav a {\n  color: #fff;\n  font-family: \"Source Sans Pro\", sans-serif;\n  font-weight: 600;\n  opacity: .75;\n  text-transform: uppercase;\n}\n.main-navigation a {\n  font-size: 13px;\n  text-decoration: none !important;\n}\n.mobile-nav a {\n  box-shadow: 0 1px 0 rgba(255, 255, 255, .05);\n  color: #fff;\n  display: block;\n  font-family: \"Source Sans Pro\", sans-serif;\n  font-size: 18px;\n  font-weight: 400;\n  opacity: .75;\n  padding: 10px 30px;\n}\n.mobile-nav a:hover {\n  background: #da0d2b;\n  box-shadow: none;\n}\n.pdf-icon:before {\n  content: url(../images/pdf-icon.png);\n  display: block;\n  height: 87px;\n  margin-bottom: 15px;\n  width: 100%;\n}\n.intro-li-icon,\n.app-li-icon {\n  color: #099277;\n  display: block;\n  font-size: 32px;\n}\n.align-center {\n  text-align: center;\n}\n.align-left {\n  text-align: left;\n}\n.align-right {\n  text-align: right;\n}\n.light-section-heading {\n  color: #222533;\n}\n.btn,\n.pdf-icon:before,\n.play-icon:before,\n.footer-photos a,\n.logo,\n#nav-expander,\n.main-navigation,\n.logo-background,\n.close-btn,\n.work-description,\n.work:before,\n.btn-cta-intro:before,\n.btn-cta-intro span,\n.work-description,\n.work-description-icon,\n.footer-social-icon,\n.footer-photos a,\n.footer-photos a span,\n.footer-photos a:before,\n.project-pictures a:before,\n.project-pictures a span,\n.portfolio-picture a:before,\n.portfolio-picture a span {\n  transition: all .25s ease-in-out 0;\n}\n#intro p,\n.pdf-icon:hover:before,\n.play-icon:hover:before,\n#nav-expander:hover,\n.testimonials-clients a:hover,\n.close-btn:hover,\n.footer-social-icon:hover {\n  opacity: .75;\n}\n\n.btn {\n    margin: 10px;\n    display: inline-block;\n}\n\n.btn-xs{\n    padding: 6px 12px;\n}\n.btn-sm {\n    padding: 8px 16px;\n}\n.btn-md {\n    padding: 10px 20px;\n}\n.btn-lg{\n    padding: 14px 28px;\n}\n\nbody .btn-cta-dark {\n  background: #272b3a;\n  border: 2px solid #272b3a;\n  border-radius: 4px;\n  color: #FFF;\n  font-size: 12px;\n  letter-spacing: 1px;\n  padding: 14px 44px;\n  text-transform: uppercase;\n}\nbody .btn-cta-light {\n  background: #2ecc71;\n  border: 2px solid #2ecc71;\n  border-radius: 4px;\n  color: #FFF;\n  font-size: 15px;\n  letter-spacing: 1px;\n  padding: 14px 44px;\n  text-transform: uppercase;\n}\nbody .btn-ghost-white {\n  background: transparent;\n  border: 2px solid #FFF;\n  border-radius: 4px;\n  color: #FFF;\n  font-size: 12px;\n  letter-spacing: 1px;\n  padding: 14px 44px;\n  text-transform: uppercase;\n  font-weight: bold;\n}\nbody .btn-ghost-black {\n  background: transparent;\n  border: 2px solid #000;\n  border-radius: 4px;\n  color: #000;\n  font-size: 12px;\n  letter-spacing: 1px;\n  padding: 14px 44px;\n  text-transform: uppercase;\n  font-weight: bold;\n}\nbody .btn-cta-dark:hover {\n  background: #21b65f;\n  border: 2px solid #21b65f;\n  color: #fff!important;\n}\nbody .btn-cta-light:hover {\n  background: #21b65f;\n  border: 2px solid #21b65f;\n  color: #fff!important;\n}\nbody .btn-ghost-white:hover {\n  background: #FFF;\n  color: #000;\n}\nbody .btn-ghost-black:hover {\n  background: #000;\n  color: #000;\n}\n#owl {\n  -moz-user-select: none;\n  -webkit-user-select: none;\n  user-select: none;\n}\nsection {\n  overflow: hidden;\n  position: relative;\n}\n\n.section-bg-image {\n  height: 100%;\n  left: 0;\n  top: 0;\n  bottom: 0;\n  right: 0;\n  position: absolute;\n  width: 100%;\n    background-position: 50% 50%;\n    background-size: cover;\n}\nsection.has-padding {\n  border-bottom: 1px solid #EEE;\n  padding-bottom: 90px;\n  padding-top: 90px;\n}\n.widget-title span {\n  display: block;\n  margin-bottom: 15px;\n}\n#intro {\n  -moz-transition: all .25s ease 0;\n  -ms-transition: all .25s ease 0;\n  -o-transition: all .25s ease 0;\n  -webkit-transition: all .25s ease 0;\n  overflow: hidden;\n  padding-bottom: 90px;\n  position: relative;\n  transition: all .25s ease 0;\n  z-index: 2;\n}\n.header {\n  padding-bottom: 15px;\n  padding-top: 15px;\n  position: relative;\n}\n#header-wrap {\n  -moz-transition: all .25s ease 0;\n  -ms-transition: all .25s ease 0;\n  -o-transition: all .25s ease 0;\n  -webkit-transition: all .25s ease 0;\n  background-color: #fff;\n  border-bottom: 1px solid rgba(82, 87, 135, 0.2);\n  position: fixed;\n  top: 0;\n  transition: all .25s ease 0;\n  width: 100%;\n  z-index: 100;\n}\n\n#header-wrap.smaller {\n  background-color: rgba(255, 255, 255, 0.88);\n  box-shadow: 0 2px 5px rgba(0, 0, 0, .05);\n  margin-top: 0;\n  padding-top: 0;\n}\n.smaller .logo {\n  color: #000;\n  text-decoration: none;\n}\n.smaller .logo:hover {\n  color: #000;\n  opacity: .75;\n  text-decoration: none;\n}\n.smaller .main-navigation a {\n  color: #000;\n}\n.smaller .main-navigation a:hover {\n  color: #EEE;\n  opacity: 1;\n  text-decoration: underline;\n}\n.smaller #nav-expander {\n  color: #000;\n}\n.main-navigation {\n  opacity: 0;\n  position: absolute;\n  right: 70px;\n  top: 6px;\n  visibility: hidden;\n}\n\n\n.main-navigation.visible {\n  opacity: 1;\n  visibility: visible;\n  top: 6px;\n}\n\n.main-navigation.visible-always {\n    opacity: 1;\n    visibility: visible;\n    top: 6px;\n}\n\n    /* Img logo is set */\n    .main-navigation.has-image,\n    .main-navigation.has-image.visible,\n    .main-navigation.has-image.visible-always {\n        top: 40%;\n    }\n\n\n\n.main-navigation li {\n  display: inline-block;\n  margin-left: 20px;\n}\n.intro-content {\n  padding-bottom: 160px;\n  padding-top: 260px;\n}\n\n.intro-services .owl-item {\n  padding-right: 20px;\n}\n.intro-services span,\n.intro-project-technologies span {\n  font-size: 24px;\n  height: 24px;\n  margin-bottom: 16px;\n}\n#nav-expander {\n  color: #000;\n  margin-top: -10px;\n  position: absolute;\n  right: 15px;\n  top: 50%;\n}\n#intro h4 {\n  border-bottom: 1px solid rgba(255, 255, 255, 0.15);\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 13px;\n  font-weight: 600;\n  margin-bottom: 30px;\n  padding-bottom: 30px;\n}\nbody .btn-cta-intro {\n  backface-visibility: hidden;\n  background-color: #2ecc71;\n  border: 2px solid;\n  border-color: #2ecc71;\n  border-radius: 0;\n  color: #FFF;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 15px;\n  font-weight: 700;\n  letter-spacing: 1px;\n  overflow: hidden;\n  padding: 14px 44px;\n  position: relative;\n  text-transform: uppercase;\n}\nbody .btn-cta-intro:hover {\n  background-color: #21b65f;\n  border: 2px solid #21b65f;\n  color: #FFF;\n}\nbody .btn-cta-intro a {\n  color: #FFF;\n  text-decoration: none;\n}\n.pdf-icon-col {\n  height: 236px;\n  position: relative;\n}\n.pdf-icon {\n  bottom: 30px;\n  left: 0;\n  position: absolute;\n  width: 100%;\n}\n.pdf-icon:active {\n  bottom: 28px;\n}\n.intro-heading {\n  position: relative;\n}\n.intro-arrows {\n  position: absolute;\n  right: 0;\n  top: 0;\n}\n.intro-arrows li {\n  display: inline-block;\n  margin-left: 7px;\n}\n\n.intro-arrows li a {\n    font-size: 26px;\n}\n\n.arrow {\n  color: #fff;\n}\n.arrow:hover {\n  color: #fff!important;\n  opacity: .75;\n  text-decoration: none!important;\n}\n.section-heading {\n  line-height: 1.4;\n  margin-bottom: 65px;\n}\n.section-heading:before {\n  display: block;\n  height: 14px;\n  margin-bottom: 25px;\n  text-align: center;\n  width: 100%;\n}\n.light-section-heading:before {\n  content: url(../images/heading-before.png);\n}\n.mt-features li {\n  display: inline-block;\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 15px;\n  margin-bottom: 15px;\n  width: 100%;\n}\n.mt-features.inlined li {\n  width: 25%;\n}\n.mt-features .fa {\n  color: #2ecc71;\n  margin-right: 7px;\n}\n.work {\n  position: relative;\n}\n\n.logo-background {\n  background-color: #FFF;\n  bottom: 0;\n  color: #1b1b1b;\n  font-size: 24px;\n  font-weight: 700;\n  height: 115px;\n  position: absolute;\n  text-align: center;\n  text-transform: uppercase;\n  width: 100%;\n}\n.logo-background:before {\n  content: ' ';\n  display: inline-block;\n  height: 100%;\n  vertical-align: middle;\n}\n.work > img {\n  display: block;\n  width: 100%;\n}\n\n.logo-background img {\n  height: auto;\n  max-width: 187px;\n  vertical-align: middle;\n}\n.work-description {\n  bottom: 115px;\n  color: #fff;\n  left: 0;\n  opacity: 0;\n  position: absolute;\n  text-align: center;\n  visibility: hidden;\n  width: 100%;\n  z-index: 9;\n}\n.work-project-link {\n  color: #fff;\n\n  position: relative;\n}\nbody a.work-project-link:hover {\n  text-decoration: underline;\n  background-color: rgba(255,255,255,.9) !important;\n}\n.work:hover .work-description,\n.work:focus .work-description {\n  bottom: 50%;\n  margin-bottom: -18px;\n  opacity: 1;\n  visibility: visible;\n}\n.work:before,\n.footer-photos a:before,\n.project-pictures a:before,\n.portfolio-picture a:before {\n  background: rgba(238, 238, 238, .85);\n  content: '';\n  height: 100%;\n  left: 0;\n  opacity: 0;\n  position: absolute;\n  visibility: hidden;\n  width: 100%;\n}\n.project-pictures a:before,\n.portfolio-picture a:before {\n  border-radius: 4px;\n}\n.work:hover:before,\n.footer-photos a:hover:before,\n.footer-photos a:focus:before,\n.project-pictures a:focus:before,\n.project-pictures a:hover:before,\n.portfolio-picture a:hover:before,\n.portfolio-picture a:focus:before {\n  opacity: 1;\n  visibility: visible;\n}\n.work:hover .logo-background {\n  background: rgba(0, 0, 0, 0);\n}\n.work-description h3 {\n  margin-bottom: 10px;\n}\n#portfolio .owl-theme .owl-controls .owl-page.active span,\n#testimonials-box .owl-page.active span,\n#app-testimonial-carousel .owl-page.active span,\n#footer .owl-theme .owl-controls .owl-page.active span {\n  background: #2ecc71;\n  border: 2px solid #2ecc71;\n}\n#portfolio div.owl-carousel div.owl-wrapper-outer {\n  margin-left: -1px;\n}\n.work-description-icon {\n  background: rgba(27, 27, 27, .9);\n  padding: 10px;\n}\n.work-description-icon:after {\n  background: #fff;\n  content: '';\n  height: 100%;\n  left: 0;\n  position: absolute;\n  top: 0;\n  transition: all .3s ease 0;\n  width: 0;\n  z-index: -1;\n}\n.work-description-icon:hover:after {\n  background: #2ecc71;\n  width: 100%;\n}\n.work-description-icon:hover {\n  color: #fff;\n}\n.work-description-icon em {\n  font-family: Source Sans Pro, Arial, sans-serif;\n  font-size: 11px;\n  font-weight: 700;\n  margin-left: 5px;\n  position: relative;\n  text-transform: uppercase;\n  top: -1px;\n}\n.testimonial-carousel .media-body {\n  font-style: italic;\n  font-weight: 300;\n  padding-top: 20px;\n  position: relative;\n}\n.testimonial-carousel .media-body p {\n  font-size: 18px;\n  font-style: normal;\n  font-weight: 400;\n}\n.testimonial-carousel .testimonials-picture,\n.testimonials-picture {\n  border: 5px solid #f8f8f8;\n  border-radius: 50%;\n  width: 92px;\n  height: 92px;\n}\n\n.testimonial-carousel .media-object {\n  border: 1px solid #a1b1bc;\n  border-radius: 100px;\n  padding: 5px;\n}\n.testimonial-carousel .media-heading,\n.mt-person-name {\n  color: #2ecc71;\n  font-size: 16px;\n  font-style: normal;\n  margin-top: 10px;\n  text-transform: uppercase;\n}\n.testimonial-carousel .mt-company-name {\n  color: #333;\n  font-weight: 400;\n  font-size: 14px;\n  letter-spacing: 1px;\n  margin-left: 5px;\n  text-transform: capitalize;\n  font-family: 'Source Sans Pro';\n}\n.colored-section-heading,\n.colored-section-heading span {\n  color: #fff;\n}\n.colored-section-heading:before {\n  content: url(../images/light-heading-before.png);\n}\n#contact input[type=text],\n#contact input[type=email] {\n  margin-bottom: 30px;\n  width: 100%;\n}\n#contact input#cfsubject {\n  margin-right: 0;\n}\n.contact-form-field {\n  background-color: transparent;\n  border: 2px solid #FFF;\n  border-radius: 2px;\n  color: #fff;\n  font-family: Source Sans Pro, sans-serif;\n  font-size: 13px;\n  padding-left: 46px;\n}\n#contact input.contact-form-field,\n#contact input.contact-form-field:focus,\n#contact textarea#cfmessage {\n  background-repeat: no-repeat;\n}\n.cffield-upper {\n  height: 50px;\n}\n#contact input.cffield-upper,\n#contact input.cffield-upper:focus {\n  background-position: 20px center;\n}\n#cfmessage {\n  background-image: url(../images/contact-form/message.png);\n  background-position: 20px 15px;\n  height: 155px;\n  margin-bottom: 30px;\n  padding-top: 15px;\n  width: 100%;\n}\n.contact-form-field:focus {\n  background: #fff;\n  color: #1b1b1b;\n}\n.contact-info-details {\n  color: #777;\n  font-size: 13px;\n  margin-bottom: 45px;\n}\n.contact-info-col {\n  color: #fff;\n}\n#cfname {\n  background-image: url(../images/contact-form/name.png);\n}\n#cfname:focus {\n  background-image: url(../images/contact-form/name-hovered.png);\n}\n#cfemail {\n  background-image: url(../images/contact-form/email.png);\n}\n#cfemail:focus {\n  background-image: url(../images/contact-form/email-hovered.png);\n}\n#cfsubject {\n  background-image: url(../images/contact-form/subject.png);\n}\n#cfsubject:focus {\n  background-image: url(../images/contact-form/subject-hovered.png);\n}\n#cfmessage:focus {\n  background-image: url(../images/contact-form/message-hovered.png);\n}\n#contact-form .col-md-4,\n#contact-form .col-md-9 {\n  position: relative;\n}\n#footer {\n  background-color: #2a2a2a;\n  padding-top: 90px;\n}\n#footer h3 {\n  color: #FFF;\n  font-family: 'Source Sans Pro';\n}\n#footer .footer-copyright-container {\n  background-color: #141414;\n  border-top: 1px solid #2F2F2F;\n  margin-top: 25px;\n  padding: 20px 0;\n}\n#footer .footer-copyright {\n  color: rgba(255, 255, 255, .75);\n}\n#footer .footer-copyright a {\n  color: #FFF;\n}\n\n.footer-descr {\n  color: #fff;\n  font-size: 14px;\n  margin-bottom: 25px;\n  opacity: .75;\n}\n#footer > .container {\n  padding-left: 0;\n  padding-right: 0;\n}\n.footer-social li {\n  display: inline-block;\n  margin: auto 2.5px;\n}\n.footer-social-icon {\n  color: #fff;\n  display: table-cell;\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 13px;\n  opacity: 1!important;\n  padding: 8px 0;\n  text-align: center;\n  vertical-align: middle;\n  width: 55px;\n}\n.footer-social-icon:hover {\n  background-color: #2ecc71;\n  border: 2px solid #2ecc71;\n  color: #FFF!important;\n}\n.footer-social-icon span {\n  margin-right: 5px;\n}\n.fsi-facebook,\n.fsi-twitter,\n.fsi-dribbble,\n.fsi-pinterest {\n  background-color: transparent;\n  border: 2px solid #FFF;\n  border-radius: 4px;\n  color: #FFF;\n}\n.footer-photos li,\n.footer-photos a {\n  display: inline-block;\n}\n.footer-photos a,\n.project-pictures a,\n.portfolio-picture a {\n  position: relative;\n}\n.footer-photos a span,\n.project-pictures a span,\n.portfolio-picture a span {\n  color: #fff;\n  display: block;\n  font-size: 16px;\n  opacity: 0;\n  position: absolute;\n  text-align: center;\n  top: 100%;\n  visibility: hidden;\n  width: 100%;\n}\n.footer-photos a:hover span,\n.project-pictures a:hover span,\n.portfolio-picture a:hover span {\n  opacity: 1;\n  top: 50%;\n  visibility: visible;\n}\n.footer-photos a:hover span,\n.project-pictures a:hover span {\n  margin-top: -8px;\n}\n#project-content a:hover span {\n  margin-top: -6px;\n}\n.footer-photos li {\n  margin-bottom: 5px;\n  margin-right: 5px;\n}\n.footer-photos li:nth-child(3n) {\n  margin-right: 0;\n}\n.footer-photos img {\n  display: block;\n  max-width: 75px;\n}\n#footer .menu li a {\n  color: #FFF;\n  float: left;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 14px;\n  margin-bottom: 12px;\n  margin-right: 16px;\n}\n#footer .menu li a:before {\n  content: '\\2192';\n  margin-right: 8px;\n}\n#footer .menu li a:hover {\n  color: #2ecc71;\n  text-decoration: underline;\n}\n.tweet {\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  padding-left: 25px;\n  position: relative;\n}\n.tweet:before {\n  color: #2eb1eb;\n  content: \"\\f099\";\n  font-family: FontAwesome;\n  font-size: 18px;\n  left: 0;\n  position: absolute;\n  top: 0;\n}\n.tweet-user {\n  color: #2eb1eb;\n  display: block;\n  margin-bottom: 10px;\n}\n.tweet-date {\n  display: block;\n  font-weight: 700;\n}\n#footer .owl-pagination {\n  margin: 0;\n  padding-left: 21px;\n  text-align: left;\n}\n.offset-canvas-mobile {\n  -moz-transform: translateX(-100%);\n  -ms-transform: translateX(-100%);\n  -o-transform: translateX(-100%);\n  -o-transition: all .3s cubic-bezier(1, 0, 0, 1);\n  -webkit-transform: translateX(-100%);\n  -webkit-transition: all .3s cubic-bezier(1, 0, 0, 1);\n  background-color: #121212;\n  bottom: 0;\n  color: #fff;\n  left: 0;\n  opacity: 0;\n  position: fixed;\n  right: 0;\n  top: 0;\n  transform: translateX(-100%);\n  transition: all .3s cubic-bezier(1, 0, 0, 1);\n  visibility: hidden;\n  z-index: 101;\n  overflow-y: scroll;\n}\n.offset-canvas-mobile.open-canvas {\n  -moz-transform: translateX(0);\n  -ms-transform: translateX(0);\n  -o-transform: translateX(0);\n  -webkit-transform: translateX(0);\n  opacity: 1;\n  transform: translateX(0);\n  visibility: visible;\n}\n.mobile-nav-holder {\n  padding-top: 80px;\n}\n.mobile-nav-close-btn {\n  color: #FFF;\n  font-family: FontAwesome;\n  font-size: 20px;\n  position: absolute;\n  right: 30px;\n  top: 30px;\n}\n.project-contact-form-enabled {\n  background-color: #EFEFEF;\n  border-top: 1px solid #DDD;\n}\n.project-contact-form-enabled .wpcf7 input[type=text],\n.project-contact-form-enabled .wpcf7 input[type=email],\n.project-contact-form-enabled .wpcf7 textarea {\n  border: 2px solid #a1b1bc;\n  color: #000;\n}\n.single-project section {\n  background-color: #f5f5f5;\n}\n.about-project-header {\n  border-bottom: 1px solid #ddd;\n  padding-bottom: 45px;\n  padding-top: 90px;\n}\n.about-project-text {\n  padding-top: 45px;\n}\n.project-pictures {\n  padding-bottom: 90px;\n  padding-top: 30px;\n}\n.project-pictures a {\n  display: block;\n}\n.project-pictures img,\n#project-content img {\n  border-radius: 4px;\n  display: block;\n  max-width: 100%;\n  max-height: 235px;\n  width: 100%;\n  margin: 0 auto;\n}\n.main-nav-project {\n  opacity: 1;\n  visibility: visible;\n}\n#about-project {\n  background-color: #f5f5f5;\n}\n.single-project-intro .intro-title,\n.portfolio-intro .intro-title {\n  margin-bottom: 15px;\n}\n.single-testimonial-client {\n  border-radius: 50%;\n}\n.single-project-testimonials .testimonials-text {\n  padding-left: 10px;\n}\n.main-nav-single-project span {\n  margin-right: 10px;\n}\n#project-content {\n  padding-bottom: 90px;\n  padding-top: 90px;\n}\n.portfolio-picture a {\n  display: block;\n}\n.portfolio-picture {\n  margin-bottom: 30px;\n}\n.featured-portfolio-picture,\n.featured-portfolio-picture img {\n  height: 372px;\n}\n#intro.portfolio-intro {\n  background-image: url(../images/portfolio-bg.png);\n}\n.portfolio-intro .intro-content {\n  padding-bottom: 45px;\n  padding-top: 200px;\n}\n#project-content a span.portfolio-picture-name {\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 12px;\n  text-transform: uppercase;\n}\n.projects-hidden {\n  display: none;\n}\n\n.home-intro .bx-wrapper {\n    position: absolute;\n    width: 100%;\n    max-width: 100%;\n    max-height: 100%;\n}\n\n.home-intro .bx-wrapper img {\n  width: 100%;\n}\n\nbody .mt-slider-wrapper {\n  max-height: 100%;\n  max-width: 100%;\n  position: absolute;\n  width: 100%;\n  z-index: 0;\n}\n\n.text-center {\n  text-align: center;\n}\n.text-left: {\n  text-align: left;\n}\n.text-right {\n  text-align: right;\n}\nbody.logged-in section {\n  position: relative;\n}\n.mt-edit-post-link {\n  background-color: #1b1b1b;\n  border-top-left-radius: 4px;\n  border-top-right-radius: 4px;\n  bottom: 0;\n  display: block;\n  left: 0;\n  margin-left: auto;\n  margin-right: auto;\n  max-width: 25%;\n  padding: 10px 15px;\n  position: absolute;\n  right: 0;\n  text-align: center;\n  width: auto;\n}\n.mt-edit-post-link a {\n  color: #FFF;\n  text-decoration: none;\n}\n.mt-blogpost .thumbnail {\n  border: 1px solid #f0f0f0;\n  border-radius: 4px;\n  overflow: hidden;\n  padding: 0;\n}\n.mt-blog-posts .thumbnail:hover {\n  opacity: .9;\n}\n.mt-blog-posts p {\n  color: #777;\n  text-align: center;\n}\n.mt-blogpost .thumbnail,\n.mt-blogpost .img-thumbnail {\n  -webkit-box-shadow: none;\n  box-shadow: none;\n}\n.mt-blogpost h3 {\n  margin-bottom: 10px;\n  margin-top: 15px;\n}\n.mt-blogpost .caption {\n  border-radius: 0 0 4px 4px;\n  border-top: 0;\n  color: #333;\n  padding: 25px 0;\n}\n\n    .mt-blogpost .caption p {\n        padding: 0 10px;\n    }\n\n.mt-blogpost-title {\n  color: #363636;\n  display: block;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 16px;\n  font-weight: 600;\n  margin-bottom: 5px;\n  padding: 0 10px;\n}\n\n.mt-blogpost .btn-read-more {\n  color: #2ecc71;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-weight: 600!important;\n  text-transform: capitalize;\n}\n.mt-blogpost .btn-read-more:hover {\n  opacity: .75;\n}\n.mt-blogpost .thumbnail img {\n  border-radius: 4px 4px 0 0;\n  height: auto;\n  width: 100%;\n}\n.mt-date {\n  color: #2ecc71;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 14px;\n  font-weight: 400;\n}\n\n    .blog .mt-date {padding-right: 15px;}\n    .blog .mt-comments {padding-left: 15px;}\n\n\n\n.mt-chart {\n  display: block;\n  height: 110px;\n  margin: 50px auto;\n  position: relative;\n  text-align: center;\n  width: 110px;\n}\n.mt-chart canvas {\n  left: 0;\n  position: absolute;\n  top: 0;\n}\n.percent {\n  display: inline-block;\n  line-height: 110px;\n  z-index: 2;\n}\n.percent:after {\n  content: '%';\n  font-size: .8em;\n  margin-left: .1em;\n}\n.mt-pie-chart-custom-text {\n  color: #a1b1bc;\n  display: block;\n  font-size: 28px;\n  height: auto;\n  left: 0;\n  position: absolute;\n  top: 0;\n  width: 100%;\n}\n.mt-pie-chart-custom-icon i {\n  color: #2ecc71;\n  font-size: inherit;\n  line-height: inherit;\n}\n.mt-contact-info h3 {\n  color: #363636;\n  margin-bottom: 10px;\n}\n.mt-contact-info p {\n  font-size: 16px;\n}\n.macho_map_canvas img {\n  max-width: none;\n}\n.mt-separator {\n  height: 5px;\n  width: 100%;\n}\n.mt-separator.solid {\n  border-top: 1px solid #ddd;\n}\n.mt-separator.dashed {\n  border-top: 1px dashed #ddd;\n}\n.mt-separator.double {\n  border-top: 2px double #ddd;\n}\n.mt-highlight-yellow,\n.mt-highlight-yellow a {\n  background-color: #FFF7A8;\n  color: #695D43;\n}\n.mt-highlight-blue,\n.mt-highlight-blue a {\n  background: #e9f7fe;\n  color: #5091b2;\n}\n.mt-highlight-green,\n.mt-highlight-green a {\n  background: #ebf6e0;\n  color: #5f9025;\n}\n.mt-highlight-red,\n.mt-highlight-red a {\n  background: #ffe9e9;\n  color: #de5959;\n}\n.mt-highlight-gray,\n.mt-highlight-gray a {\n  background: #f9f9f9;\n  color: #666;\n}\n.mt-skillbar {\n  -moz-border-radius: 3px;\n  -moz-transition: .4s linear;\n  -moz-transition-property: width, background-color;\n  -ms-transition: .4s linear;\n  -ms-transition-property: width, background-color;\n  -o-transition: .4s linear;\n  -o-transition-property: width, background-color;\n  -webkit-border-radius: 3px;\n  -webkit-transition: .4s linear;\n  -webkit-transition-property: width, background-color;\n  background: #eee;\n  border-radius: 3px;\n  display: block;\n  height: 35px;\n  margin-bottom: 15px;\n  position: relative;\n  transition: .4s linear;\n  transition-property: width, background-color;\n  width: 100%;\n}\n.mt-skillbar-title {\n  -moz-border-radius-bottomleft: 3px;\n  -moz-border-radius-topleft: 3px;\n  -webkit-border-bottom-left-radius: 4px;\n  -webkit-border-top-left-radius: 3px;\n  background: #6adcfa;\n  border-bottom-left-radius: 3px;\n  border-top-left-radius: 3px;\n  color: #fff;\n  font-size: 13px;\n  font-weight: 700;\n  left: 0;\n  position: absolute;\n  top: 0;\n}\n.mt-skillbar-title span {\n  -moz-border-radius-bottomleft: 3px;\n  -moz-border-radius-topleft: 3px;\n  -webkit-border-bottom-left-radius: 3px;\n  -webkit-border-top-left-radius: 3px;\n  background: rgba(0, 0, 0, 0.1);\n  border-bottom-left-radius: 3px;\n  border-top-left-radius: 3px;\n  display: block;\n  height: 35px;\n  line-height: 35px;\n  padding: 0 20px;\n}\n.mt-skillbar-bar {\n  -moz-border-radius: 3px;\n  -webkit-border-radius: 3px;\n  background: #6adcfa;\n  border-radius: 3px;\n  height: 35px;\n  width: 0;\n}\n.mt-skill-bar-percent {\n  color: rgba(0, 0, 0, 0.4);\n  font-size: 11px;\n  height: 35px;\n  line-height: 35px;\n  position: absolute;\n  right: 10px;\n  top: 0;\n}\n.mt-pricing-table {\n  list-style: none;\n  margin: 10px auto;\n  padding: 0;\n}\n.mt-pricing-table div {\n  list-style: none;\n}\n\nimg.mt-product-image {\n    max-width: 100%;\n    height: auto;\n    overflow: hidden;\n    text-align: center;\n}\n\n.mt-pricing-table > div {\n  font-family: 'Source Sans Pro';\n  list-style: none;\n  margin-bottom: 0;\n  text-shadow: none;\n}\n.mt-pricing-table .mt-pricing-header {\n  background: #FFF;\n  border-top-left-radius: 4px;\n  border-top-right-radius: 4px;\n  padding: 0 30px;\n  text-align: left;\n}\n.mt-pricing-table .mt-pricing-header h5 {\n  color: #1b1b1b;\n  font-size: 18px;\n  margin: 0;\n  padding: 30px 0 15px 0;\n  font-family: 'Oxygen', 'Source Sans Pro', Arial, sans-serif;\n  font-weight: 600;\n  border-bottom: 2px solid #f0f0f0;\n}\n.mt-pricing-table .mt-pricing-cost {\n  border-bottom: 2px solid #f0f0f0;\n  color: #363636;\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 42px;\n  font-weight: 700;\n  letter-spacing: -1px;\n  line-height: 1.5;\n  padding: 15px 0;\n}\n.mt-pricing-table .featured .mt-pricing-header {\n  background: #2ecc71;\n  border-bottom: 0;\n  color: #fff;\n}\n.mt-pricing-table .featured .mt-pricing-header h5 {\n  color: #fff;\n}\n.mt-pricing-table .featured .mt-pricing-cost,\n.mt-pricing-table .featured .mt-pricing-per {\n  color: #FFF;\n}\n.mt-pricing-table .mt-pricing-per {\n  color: #1b1b1b;\n  font-family: Source Sans Pro, Arial, sans-serif;\n  font-size: 14px;\n  font-weight: 400;\n  letter-spacing: 0;\n}\n.mt-pricing-table .mt-pricing-content {\n  background: #fff;\n  font-size: .857em;\n  padding: 20px 0 10px;\n  text-align: center;\n}\n.mt-pricing-table .mt-pricing-content ul {\n  list-style: none!important;\n  margin: 0!important;\n}\n.mt-pricing-table .mt-pricing-content ul li {\n  color: #363636;\n  font-size: 15px;\n  list-style: none !important;\n  margin: 0 !important;\n  padding: 10px 30px !important;\n  text-align: left;\n  text-transform: capitalize;\n}\n.mt-pricing-table .mt-pricing-content ul li.checked:before {\n  color: #2ecc71;\n  content: '\\f00c';\n  font-family: FontAwesome;\n  margin-right: 10px;\n}\n.mt-pricing-table .mt-pricing-content ul li.unchecked:before {\n  color: #a1b1bc;\n  content: '\\f00d';\n  font-family: FontAwesome;\n  margin-right: 10px;\n  opacity: .65;\n}\n.mt-pricing-table .mt-pricing-button {\n  background: #fff;\n  border-bottom-left-radius: 4px;\n  border-bottom-right-radius: 4px;\n  border-top: 1px solid #fff;\n  padding: 15px 0 30px 30px;\n  text-align: left;\n}\n.mt-pricing-table .mt-pricing-button .mt-button {\n  float: none;\n  margin: 0 auto;\n}\n.mt-button {\n  background: #FFF;\n  border-radius: 3px;\n  cursor: pointer;\n  display: inline-block;\n  font-family: 'Source Sans Pro', Helvetica, Arial, Helvetica, sans-serif;\n  font-size: 13px;\n  margin: 5px 5px 5px 0;\n  nowhitespace: afterproperty;\n  outline: none;\n  text-align: center;\n  text-decoration: none!important;\n  white-space: nowrap;\n}\n.mt-button span.mt-button-inner {\n  background: #2ecc71;\n  border: 2px solid;\n  border-color: #2ecc71;\n  border-radius: 3px;\n  color: #FFF;\n  display: block;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 15px;\n  font-weight: 700;\n  letter-spacing: 1px;\n  line-height: .8em;\n  padding: 14px 28px;\n  text-align: center;\n  text-decoration: none;\n  text-transform: uppercase;\n  white-space: nowrap;\n}\n.mt-button:active {\n  background: #2ecc71;\n  text-decoration: none;\n}\n.mt-button:hover span.mt-button-inner {\n  color: #FFF;\n}\n.mt-button:hover {\n  -moz-opacity: 0.9;\n  -webkit-opacity: 0.9;\n  background-color: #2ecc71;\n  opacity: 0.9;\n  text-decoration: none;\n}\n.mt-button.left {\n  float: left;\n}\n.mt-button.right {\n  float: right;\n  margin-left: 5px;\n  margin-right: 0;\n}\n.mt-button.aligncenter {\n  display: block;\n  margin: 0 auto;\n}\n.mt-button-icon-left {\n  margin-right: 7px;\n}\n.mt-button-icon-right {\n  margin-left: 7px;\n}\n.mt-heading {\n  border-bottom: 1px solid #ddd;\n  font-size: 16px;\n  padding-bottom: 20px;\n}\n.mt-heading span {\n  background: #fff;\n}\n.mt-heading-dotted-line {\n  background: url(../images/dotted.png) center center repeat-x;\n  border-bottom: none;\n  height: 40px!important;\n  line-height: 40px!important;\n  padding: 0!important;\n}\n.mt-heading-dashed-line {\n  background: url(../images/dashed.png) center center repeat-x;\n  border-bottom: none;\n  height: 40px!important;\n  line-height: 40px!important;\n  padding: 0!important;\n}\n.mt-heading-double-line {\n  background: url(../images/double-line.png) center center repeat-x;\n  border-bottom: none;\n  height: 40px!important;\n  line-height: 40px!important;\n  padding: 0!important;\n}\n.mt-heading.text-center {\n  text-align: center;\n}\n.mt-heading.text-center span {\n  font-family: Source Sans Pro, Arial, sans-serif;\n  font-size: 18px;\n  font-weight: 500;\n  margin-bottom: 5px;\n  padding-left: 15px;\n  padding-right: 15px;\n  text-transform: capitalize;\n}\n.mt-heading.text-left {\n  text-align: left;\n}\n.mt-heading.text-left span {\n  padding-left: 25px;\n}\n.mt-heading.text-right {\n  text-align: right;\n}\n.mt-heading.text-right span {\n  padding-left: 15px;\n}\n.mt-heading-icon-left {\n  margin-right: 10px;\n}\n.mt-heading-icon-right {\n  margin-left: 10px;\n}\n.mt-callout {\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-weight: 300;\n  margin: 0 auto;\n  overflow: hidden;\n  position: relative;\n  max-width: 1170px;\n}\n.mt-callout-caption p{\n  color: #FFF;\n  font-size: 18px;\n  font-weight: 400;\n  line-height: 1.5;\n  padding-top: 20px;\n}\n\n.mt-callout-button .button {\n  border: 1px solid #FFF;\n}\n\n\n.mt-team {\n  border-radius: 4px;\n  display: inline-block;\n  height: auto;\n  padding: 0 15px;\n  position: relative;\n  text-align: center;\n}\n.mt-team:hover:after {\n  width: 40px;\n}\n.mt-team-img {\n  -moz-transition: all .4s cubic-bezier(0.805, 0.075, 0.315, 1.410);\n  -o-transition: all .4s cubic-bezier(0.805, 0.075, 0.315, 1.410);\n  -webkit-transition: all .4s cubic-bezier(0.805, 0.075, 0.315, 1.410);\n  border-radius: 50%;\n  margin-bottom: 15px;\n  transition: all .4s cubic-bezier(0.805, 0.075, 0.315, 1.410);\n  max-width: 150px;\n}\n\n\n.mt-team:hover .mt-team-img {\n  -ms-transform: scale(0.9);\n  -webkit-transform: scale(0.9);\n  opacity: .75;\n  transform: scale(0.9);\n}\n.mt-team-image {\n  padding: 0!important;\n}\n.mt-team-description {\n  -moz-transition: all .35s ease;\n  -webkit-transition: all .35s ease;\n  background: #363636;\n  left: 10%;\n  margin-top: 15px;\n  opacity: 0;\n  padding: 14px 0;\n  position: absolute;\n  z-index: 2;\n  transition: all .35s ease;\n  visibility: hidden;\n  width: 80%;\n}\n.mt-team-description:before {\n  border-bottom: 6px solid #363636;\n  border-left: 6px solid transparent;\n  border-right: 6px solid transparent;\n  content: '';\n  height: 0;\n  left: 50%;\n  margin-left: -3px;\n  position: absolute;\n  top: -6px;\n  width: 0;\n}\n.mt-team-member-name {\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 18px;\n  font-weight: 400;\n  margin-bottom: 10px;\n  position: relative;\n  text-transform: capitalize;\n}\n.mt-team-member-name a {\n  color: #363636;\n}\n.mt-team-member-description {\n  color: #2ecc71;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 14px;\n  font-weight: 400;\n  line-height: 1.5;\n  position: relative;\n}\n.mt-team-member-icon {\n  display: inline-block;\n  margin-right: 12px;\n  text-align: center;\n}\n.mt-team-member-icon:last-of-type {\n  margin-right: 0;\n}\n.mt-team-member-icon a {\n  color: #fff;\n  font-size: 13px;\n  text-decoration: none;\n}\n.mt-hidden-desktop,\n.mt-visible-phone,\n.mt-visible-tablet {\n  display: none;\n}\n.parallax-bg-container {\n  background: transparent;\n  height: 100%;\n  left: 0;\n  position: absolute;\n  top: 0;\n  width: 100%;\n}\n.parallax-bg-image {\n  background-position: 50% bottom;\n  background-repeat: no-repeat;\n  background-size: cover;\n  height: 100%;\n  max-height: 100%;\n  max-width: 100%;\n  width: 100%;\n  z-index: -1;\n}\n\n.blog article {\n  border-bottom: 1px solid #EBF2F6;\n  margin: 4em 0;\n  padding-bottom: 20px;\n}\n.entry-title a {\n  color: #363636;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 32px;\n  font-weight: 600;\n  line-height: 1.5;\n  text-transform: capitalize;\n}\n\n.single-content img {\n  max-width: 100%;\n  height: auto;\n}\n\n.mt-single-sub-heading {\n    font-size: 16px;\n    font-style: italic;\n    line-height: 1.5;\n}\n\n.single-content .mt-blog-sidebar,\n.page-content .mt-blog-sidebar {\n  margin-top: 0;\n}\n\n.mt-post-nav{\n  font-family: 'Source Sans Pro', sans-serif;\n  padding: 15px 15px 0 15px;\n  border-top: 1px solid #EEE;\n  border-bottom: 1px solid #EEE;\n  min-height: 50px;\n}\n\n.mt-author-area {\n    font-family: 'Source Sans Pro', sans-serif;\n    padding: 15px 15px 0 15px;\n    min-height: 50px;\n    margin-bottom: 40px;\n}\n\n.mt-post-nav a,\n.mt-author-area a{\n  color: #000;\n  text-decoration: none;\n}\n\n\n.entry-content {\n  margin: 1.5em 0;\n}\n\n\n.entry-featured-image img {\n  border-radius: 4px;\n  width: 100%;\n  height: auto;\n}\n\n.blog .entry-content p {\n  color: #777;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 18px;\n}\n.wpcf7-form-control-wrap input,\n.wpcf7-form-control-wrap textarea {\n  background-color: transparent;\n  border: 2px solid #d0d0d0;\n  border-radius: 2px;\n  color: #363636;\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 13px;\n  margin-bottom: 30px;\n  padding-left: 16px;\n  width: 100%;\n}\n.wpcf7-form-control-wrap input:focus,\n.wpcf7-form-control-wrap textarea:focus {\n  border-color: #2ecc71;\n}\n.wpcf7-form-control-wrap textarea {\n  background-position: 20px 15px;\n  padding-top: 15px;\n  resize: none;\n}\n.wpcf7-form-control-wrap input[type=text],\n.wpcf7-form-control-wrap input[type=email] {\n  height: 50px;\n}\n.site-main .comment-navigation,\n.site-main .posts-navigation,\n.site-main .post-navigation {\n  margin: 0 0 1.5em;\n  overflow: hidden;\n}\n.comment-navigation .nav-previous,\n.posts-navigation .nav-previous,\n.post-navigation .nav-previous {\n  float: left;\n  width: 50%;\n}\n.widget_pages a,\n.widget_recent_entries a,\n.widget_categories a {\n  color: #777;\n  display: block;\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 15px;\n  margin-bottom: 5px;\n}\n.widget_pages a:hover {\n  color: #2ecc71;\n}\n#wp-calendar {\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  width: 100%;\n}\n#wp-calendar th,\n#wp-calendar td {\n  padding: 5px;\n  text-align: center;\n}\n.tagcloud a,\n.comment-reply-link {\n  border: 2px solid #363636;\n  color: #363636;\n  display: inline-block;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 13px;\n  font-weight: 600;\n  margin-bottom: 8px;\n  margin-right: 4px;\n  padding: 6px 12px;\n  text-transform: uppercase;\n}\n.tagcloud a:hover,\n.tagcloud a:focus,\n.comment-reply-link:hover,\n.comment-reply-link:focus {\n  background: #2ecc71;\n  border: 2px solid #2ecc71;\n  color: #fff!important;\n}\n.recentcomments a,\n.widget_recent_entries a:hover,\n.widget_categories a:hover {\n  color: #2ecc71;\n}\n.recentcomments a:hover,\n.recentcomments a:focus {\n  text-decoration: underline!important;\n}\n.widget_recent_comments ul li {\n  margin-bottom: 10px;\n}\n.widget_recent_comments ul li span {\n  display: block;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 13px;\n  font-weight: 600;\n  margin-bottom: 5px;\n  text-transform: uppercase;\n}\n#wp-calendar caption {\n  background: #2ecc71;\n  border-radius: 4px 4px 0 0;\n  color: #fff;\n  padding: 8px;\n}\n#wp-calendar thead {\n  background: #363636;\n  color: #fff;\n  font-weight: 600;\n}\n#wp-calendar tbody {\n  background: #fff;\n}\n#wp-calendar tfoot td {\n  padding: 10px 0;\n  text-align: left;\n}\n#wp-calendar tfoot a {\n  color: #363636;\n}\n#comments {\n  border-top: 1px solid #EEE;\n}\n.comments-title,\n#reply-title {\n  font-size: 18px;\n  margin: 45px 0 35px;\n}\n.comment-body {\n  display: table;\n}\n.comment-meta {\n  display: table-cell;\n  padding-right: 30px;\n  vertical-align: top;\n  width: 170px;\n}\n.comment-list li,\n.comment-list li article {\n  margin-bottom: 30px;\n}\n.comment-content p {\n  color: #777;\n  font-size: 14px;\n}\n.comment-reply-link {\n  margin-top: 15px;\n}\n.comment-author {\n  padding-top: 7px;\n}\n.comment-author .fn {\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n}\n.comment-author .fn a {\n  color: #363636;\n}\n\n.comment-author img {\n  display: block;\n  margin-bottom: 10px;\n}\n.comment-metadata time {\n  color: #363636;\n  display: block;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 11px;\n  font-style: italic;\n}\n.comment-list ol.children {\n  border-left: 1px solid #efefef;\n  padding-left: 60px;\n}\n\n.entry-tags a {\n  background-color: rgba(51, 51, 51, .75);\n  text-decoration: none;\n  color: #FFF;\n  padding: 7.5px 10px;\n  border-radius: 4px;\n}\n.entry-tags a:hover {\n  text-decoration: underline;\n}\n\n.entry-meta {\n    font-family: 'Source Sans Pro', sans-serif;\n    padding: 15px 15px 0 15px;\n    border-top: 1px solid #EEE;\n    border-bottom: 1px solid #EEE;\n    min-height: 50px;\n    margin: 15px auto;\n}\n.entry-meta a,\n.mt-comments a {\n    color: #2ecc71;\n    text-decoration: none;\n}\n.entry-meta a:hover {text-decoration: underline;}\n\n#respond {\n  margin-bottom: 45px;\n}\n#respond form {\n  background: #f9f9f9;\n  display: table;\n  padding: 0 15px;\n  width: 100%;\n}\n.comment-notes,\n.logged-in-as {\n  font-size: 14px;\n  margin-bottom: 20px;\n  margin-left: 15px;\n  margin-top: 30px;\n}\n.comment-form-author,\n.comment-form-email,\n.comment-form-url {\n  float: left;\n  padding: 0 15px;\n  width: 33.3%;\n}\n.comment-form-comment {\n  float: left;\n  padding: 0 15px;\n  width: 100%;\n}\n#respond .form-allowed-tags {\n  display: none;\n}\n#respond label {\n  display: block;\n  font-size: 12px;\n  margin-bottom: 10px;\n  text-transform: uppercase;\n}\n#respond input,\n#respond textarea {\n  border: 1px solid #d0d0d0;\n  margin-bottom: 15px;\n  padding: 6px 10px;\n  width: 100%;\n}\n#respond input:focus,\n#respond textarea:focus {\n  border: 1px solid #2ecc71;\n}\n#respond textarea {\n  height: 150px;\n  margin-bottom: 20px;\n  resize: none;\n}\n.comment-awaiting-moderation {\n  font-size: 12px;\n  font-style: italic;\n  margin-top: 15px;\n}\ninput#submit {\n  background: #2ecc71;\n  border: 0;\n  color: #FFF;\n  display: block;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 15px;\n  font-weight: 700;\n  letter-spacing: 1px;\n  margin: 0 0 30px 15px;\n  padding: 14px 28px;\n  text-transform: uppercase;\n  width: auto;\n}\n#cancel-comment-reply-link {\n  color: #2ecc71;\n  font-size: 11px;\n  margin-left: 10px;\n  text-transform: uppercase;\n}\n#cancel-comment-reply-link:before {\n  background: #2ecc71;\n  border-radius: 50%;\n  color: #fff;\n  content: 'x';\n  display: inline-block;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 11px;\n  font-weight: 600;\n  height: 14px;\n  line-height: 12px;\n  margin-right: 4px;\n  text-align: center;\n  width: 14px;\n}\n#cancel-comment-reply-link:hover,\n#cancel-comment-reply-link:focus {\n  text-decoration: underline!important;\n}\n.comment-navigation .nav-next,\n.posts-navigation .nav-next,\n.post-navigation .nav-next {\n  float: right;\n  text-align: right;\n  width: 50%;\n}\n.mt-blog-sidebar {\n  background: #F5F5F5;\n  margin-top: 90px;\n  padding: 30px;\n}\n.screen-reader-text {\n  clip: rect(1px, 1px, 1px, 1px);\n  height: 1px;\n  overflow: hidden;\n  position: absolute!important;\n  width: 1px;\n}\n.screen-reader-text:focus {\n  background-color: #f1f1f1;\n  border-radius: 3px;\n  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);\n  clip: auto!important;\n  color: #21759b;\n  display: block;\n  font-size: .875rem;\n  font-weight: 700;\n  height: auto;\n  left: 5px;\n  line-height: normal;\n  padding: 15px 23px 14px;\n  text-decoration: none;\n  top: 5px;\n  width: auto;\n  z-index: 100000;\n}\n.alignleft {\n  display: inline;\n  float: left;\n  margin-right: 1.5em;\n  margin-top: 10px;\n  margin-bottom: 10px;\n}\n.alignright {\n  display: inline;\n  float: right;\n  margin-left: 1.5em;\n  margin-top: 10px;\n  margin-bottom: 10px;\n}\n.aligncenter {\n  clear: both;\n  display: block;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 10px;\n  margin-bottom: 10px;\n}\n\n.alignnone {\n  margin: 10px auto;\n}\n\n.widget {\n  margin: 0 0 45px;\n}\n.widget select {\n  cursor: pointer;\n  max-width: 100%;\n  padding: 8px 12px;\n}\n.widget_search .search-submit {\n  display: none;\n}\n\n.widget_search input[type=\"search\"] {\n  border: 1px solid #CCC;\n  font-style: italic;\n  padding: 10px 0 10px 5px;\n}\n\n.macho_widget_social_media li {\n  margin: 5px auto;\n}\n.macho_widget_social_media li a {\n  color: #EEE;\n  text-decoration: none;\n}\n.macho_widget_social_media li a i {\n  padding-right: 15px;\n}\n.macho_widget_social_media li a:hover {\n  text-decoration: underline;\n}\n.mt_widget_flickr a {\n  display: inline-block;\n  height: 68px;\n  margin: 5px;\n  width: 68px;\n}\n.mt_widget_flickr a img {\n  height: 100%;\n  width: 100%;\n}\n.sticky {\n  display: block;\n  border: 1px solid #EEE;\n  padding: 15px;\n}\n.hentry {\n  margin: 0 0 1.5em;\n  padding-bottom: 25px;\n}\n.byline,\n.updated:not(.published) {\n  display: none;\n}\n.single .byline,\n.group-blog .byline {\n  display: inline;\n}\n.page-content,\n.entry-content,\n.entry-summary {\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 18px;\n  line-height: 1.6;\n  margin: 1.5em 0 0;\n}\n.page-links {\n  clear: both;\n  margin: 0 0 1.5em;\n}\n.blog .format-aside .entry-title,\n.archive .format-aside .entry-title {\n  display: none;\n}\n.comment-content a {\n  word-wrap: break-word;\n}\n.bypostauthor {\n  display: block;\n}\n.infinite-scroll .posts-navigation,\n  /* Older / Newer Posts Navigation (always hidden) */\n\n.infinite-scroll.neverending .site-footer {\n  display: none;\n}\n.infinity-end.neverending .site-footer {\n  display: block;\n}\n.page-content .wp-smiley,\n.entry-content .wp-smiley,\n.comment-content .wp-smiley {\n  border: none;\n  margin-bottom: 0;\n  margin-top: 0;\n  padding: 0;\n}\nembed,\niframe,\nobject {\n  max-width: 100%;\n}\n.wp-caption {\n  margin-bottom: 1.5em;\n  max-width: 100%;\n}\n.wp-caption img[class*=wp-image-] {\n  display: block;\n  margin: 0 auto;\n}\n.wp-caption-text {\n  text-align: center;\n}\n.wp-caption .wp-caption-text {\n  margin: .8075em 0;\n  background-color: #2ecc71;\n  padding: 5px;\n  border-radius: 2px;\n  color: #FFF;\n}\n\n.wp-caption .wp-caption-text a {\n  color: #FFF;\n  text-decoration: underline;\n}\n\n.gallery {\n  margin-bottom: 1.5em;\n}\n.gallery-item {\n  display: inline-block;\n  text-align: center;\n  vertical-align: top;\n  width: 100%;\n}\n.gallery-columns-2 .gallery-item {\n  max-width: 50%;\n}\n.gallery-columns-3 .gallery-item {\n  max-width: 33.33%;\n}\n.gallery-columns-4 .gallery-item {\n  max-width: 25%;\n}\n.gallery-columns-5 .gallery-item {\n  max-width: 20%;\n}\n.gallery-columns-6 .gallery-item {\n  max-width: 16.66%;\n}\n.gallery-columns-7 .gallery-item {\n  max-width: 14.28%;\n}\n.gallery-columns-8 .gallery-item {\n  max-width: 12.5%;\n}\n.gallery-columns-9 .gallery-item {\n  max-width: 11.11%;\n}\n.gallery-caption {\n  display: block;\n}\n\n.theme-container .big-button-cta {\n  padding-top: 65px;\n}\n.logged-in.admin-bar #header-wrap {\n  top: 32px;\n}\n.logged-in.admin-bar #header-wrap.smaller {\n  top: 32px;\n}\n#mt-twitter-carousel {\n  color: #FFF;\n}\n.mt-top {\n  -moz-transition: opacity .3s 0 visibility 0 .3s;\n  -webkit-transition: opacity .3s 0 visibility 0 .3s;\n  background: rgba(0, 0, 0, 0.8) url(../images/cd-top-arrow.svg) no-repeat center 50%;\n  border-radius: 50%;\n  bottom: 25px;\n  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);\n  display: inline-block;\n  height: 25px;\n  opacity: 0;\n  overflow: hidden;\n  position: fixed;\n  right: 10px;\n  text-indent: 100%;\n  transition: opacity .3s 0 visibility 0 .3s;\n  visibility: hidden;\n  white-space: nowrap;\n  width: 25px;\n}\n.mt-top.mt-is-visible,\n.mt-top.mt-fade-out,\n.no-touch .mt-top:hover {\n  -moz-transition: opacity .3s 0 visibility 0 0;\n  -webkit-transition: opacity .3s 0 visibility 0 0;\n  transition: opacity .3s 0 visibility 0 0;\n}\n.mt-top.mt-is-visible {\n  opacity: 1;\n  visibility: visible;\n}\n.mt-top.mt-fade-out {\n  opacity: .5;\n}\n.mt-top.mt-fade-out:hover {\n  opacity: 1;\n}\n.no-touch .mt-top:hover {\n  background-color: #e86256;\n  opacity: 1;\n}\nh1,\nh2,\nh3 {\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n}\n.intro-title {\n  margin-bottom: 15px;\n}\n.intro-title,\n.intro-service-title,\n#intro h4,\n#intro p,\n.pdf-icon {\n  color: #fff;\n}\n.logo,\n.main-navigation a {\n  color: #000;\n}\nsection.has-padding.has-shortcode {\n  padding-bottom: 0;\n}\n.widgettitle,\n.widget-title span {\n  display: block;\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 14px;\n  font-weight: 600;\n  margin-bottom: 25px;\n  text-transform: uppercase;\n}\n\n#footer .widgettitle,\n#footer .widget-title span {\n  color: #FFF\n}\n\n#nav-expander,\n.smaller #nav-expander {\n  color: #000;\n}\n#nav-expander i.fa-bars {\n  color: #000;\n  font-size: 21px;\n}\n#nav-expander:hover i.fa-bars {\n  color: #000;\n}\nbody .btn-cta-intro:hover span {\n  color: #fff;\n}\n.arrow:active {\n  position: relative;\n  top: 1px;\n}\n.arrow:active,\n.arrow:focus {\n  color: #fff!important;\n  opacity: .75;\n  text-decoration: none!important;\n}\n#about {\n  background-color: #f5f5f5;\n  border-bottom: 1px solid #e3e3e3;\n  overflow: hidden;\n  padding-top: 90px;\n}\n.work:before,\n.project-pictures a:before,\n.portfolio-picture a:before,\n.footer-photos a:before {\n  content: '';\n  height: 100%;\n  opacity: 0;\n  position: absolute;\n  visibility: hidden;\n  width: 100%;\n}\n.footer-photos a:before {\n  background: #2ecc71;\n}\n.work:before,\n.project-pictures a:before,\n.portfolio-picture a:before {\n  background: rgba(255, 255, 255, .9);\n}\n.testimonial-carousel .media-object img {\n  border-radius: 100px;\n}\n.testimonial-carousel .owl-prev,\n.testimonial-carousel .owl-next {\n  color: #000;\n  font-size: 24px;\n  position: absolute;\n  top: 100%;\n}\n.testimonial-carousel .owl-prev {\n  left: 48.5%;\n}\n.testimonial-carousel .owl-next {\n  right: 48.5%;\n}\n.testimonial-carousel .owl-controls {\n  padding-top: 20px;\n}\n.tweet p {\n  color: #fff;\n  font-size: 14px;\n  opacity: .75;\n}\n\n.mt-pricing-table .mt-pricing-content ul li.unchecked {\n  opacity: .5;\n}\n.entry-content .mt-callout {\n  border-radius: 4px;\n}\n.mt-callout-wrapper {\n  margin: 0 auto;\n  max-width: 100%;\n}\n\ndiv#buy-now {\n  background: #2ecc71;\n  border-bottom: 0!important;\n}\n#buy-now .container-fluid {\n  background: #2ecc71;\n  margin-top: 30px;\n}\n#team .mt-team-member-icon a {\n  color: #fff;\n  font-size: 13px;\n  text-decoration: none;\n}\ndiv.thumbnail .caption {\n  border-radius: 0 0 4px 4px;\n  border-top: 0;\n  color: #333;\n  padding: 25px 0;\n}\n#contact .col-md-9 {\n  padding-right: 0;\n}\n.wpcf7-submit {\n  margin-right: 15px;\n}\n\n.logged-in.admin-bar .mobile-nav-close-btn {\n  top: 64px;\n}\n.mt-top.mt-is-visible,\n.mt-team-description.mt-is-visible {\n  opacity: 1;\n  visibility: visible;\n}\n.about-image {\n  border-radius: 50%;\n  display: block;\n  margin-right: 35px;\n}\n.about-text.testimonial {\n  border-left: 3px solid #2ecc71;\n  font-size: 18px;\n  font-style: italic;\n  font-weight: 300;\n  padding: 5px 0 5px 30px;\n}\n.about-text.testimonial span {\n  color: #2ecc71;\n  display: block;\n  font-size: 16px;\n  font-style: normal;\n  text-transform: uppercase;\n}\n.testimonials-picture {\n  border: 5px solid #f8f8f8;\n  border-radius: 50%;\n}\n.widget_pages a,\n.widget_recent_entries a,\n.widget_categories a {\n  color: #777;\n  display: block;\n  font-family: 'Source Sans Pro', sans-serif;\n  font-size: 15px;\n  margin-bottom: 5px;\n}\n.mobile-nav a:hover,\n.mobile a:focus {\n  background: #2ecc71;\n  color: #fff!important;\n}\n@media only screen and (min-width: 1170px) {\n  .mt-testimonials-all .mt-testimonials-item {\n    margin: 0 1.6666% 3em;\n    width: 30%;\n  }\n}\n@media screen and (max-width: 1024px) {\n\n  ul.footer-photos li:nth-child(3n) {\n    margin-right: 5px;\n  }\n  label.error {\n    font-size: 9px;\n  }\n  #testimonials-box img {\n    display: none;\n  }\n  .testimonials-text-holder {\n    height: auto;\n    padding-bottom: 45px;\n  }\n  .testimonials-text-holder p {\n    -moz-transform: none;\n    -webkit-transform: none;\n    position: none;\n    top: auto;\n    transform: none;\n  }\n  #testimonials-box .owl-buttons,\n  #app .owl-buttons {\n    margin-top: -50px;\n  }\n  .testimonials-clients img {\n    width: 80%;\n  }\n  .testimonials-clients li {\n    margin-right: 25px;\n    padding: 45px 0;\n  }\n  div.vjs-default-skin .vjs-progress-control {\n    margin-left: -370px;\n    width: 740px;\n  }\n  div.vjs-default-skin .vjs-control-bar {\n    margin-left: -470px;\n    width: 940px;\n  }\n  .single-project-testimonials {\n    text-align: center;\n  }\n  .single-testimonial-client {\n    margin-bottom: 30px;\n  }\n  .featured-portfolio-picture,\n  .featured-portfolio-picture img {\n    height: 306px;\n  }\n  a.footer-social-icon {\n    font-size: 11px;\n    width: 48px;\n  }\n  body.single nav.main-navigation,\n  body.archive nav.main-navigation,\n  body.blog nav.main-navigation {\n    right: 20px;\n  }\n  .widget {\n    float: left;\n    margin: 0 0 45px;\n    width: 100%;\n  }\n\n  .home #contact .col-md-9 {\n    padding-left: 0;\n  }\n  div.mt-callout {\n    padding: 30px;\n    text-align: center;\n    width: auto;\n  }\n}\n@media only screen and (max-width: 768px) {\n\n  .mt-testimonials-all .mt-author {\n    margin-left: 1em;\n  }\n\n  div.project-carousel .owl-next {\n    right: 46.5%;\n  }\n  div.project-carousel .owl-prev {\n    left: 46.5%;\n  }\n  .mt-team {\n    margin-bottom: 60px;\n  }\n  #footer {\n    padding-top: 90px;\n  }\n  body.single .intro-title {\n    margin-top: 0;\n  }\n  p.comment-form-author,\n  p.comment-form-email,\n  p.comment-form-url {\n    width: 100%;\n  }\n  footer.comment-meta {\n    display: block;\n  }\n  div.comment-content {\n    margin-top: 10px;\n  }\n  .intro-tagline span {\n    display: block;\n  }\n\n  .featured-portfolio-picture,\n  .featured-portfolio-picture img {\n    height: auto;\n  }\n  .single .intro-content {\n    padding-bottom: 65px;\n    padding-top: 160px;\n  }\n  .container {\n    padding-left: 30px;\n    padding-right: 30px;\n  }\n  h2.section-heading {\n    margin-bottom: 45px;\n  }\n  section#intro {\n    padding-bottom: 45px;\n  }\n  .browser,\n  #testimonials-box img.testimonials-picture,\n  #video,\n  .app-iphone {\n    display: none;\n  }\n  .macbook {\n    margin: 0 auto;\n  }\n  #app {\n    background-color: #F5F5F5;\n  }\n  a.pdf-icon {\n    bottom: auto;\n    top: 45px;\n  }\n  .pdf-icon-col {\n    height: 158px;\n  }\n  ul.mt-features li {\n    display: table-cell;\n    float: left;\n    font-size: 12px;\n    line-height: 1.4;\n    margin: 8px 0;\n    text-align: left;\n    width: 33.3%;\n  }\n  ul.testimonials-clients li {\n    display: inline-block;\n    margin: 0;\n    padding: 25px;\n    text-align: center;\n    vertical-align: middle;\n  }\n  ul.testimonials-clients {\n    margin-bottom: 30px;\n  }\n  .testimonials-text-holder p {\n    top: auto;\n    transform: none;\n  }\n  div.testimonials-text-holder {\n    height: auto;\n    padding-bottom: 45px;\n  }\n  label.error {\n    top: -42px;\n  }\n  #contact .col-md-9 {\n    padding: 0;\n  }\n  #contact .col-md-3 {\n    text-align: center;\n  }\n  #footer .col-md-4,\n  #footer .col-md-3,\n  #footer .col-md-2 {\n    margin-bottom: 35px;\n  }\n  .footer-links li {\n    display: inline-block;\n    margin-right: 15px;\n  }\n  .footer-links a {\n    background-position: 0 1px;\n  }\n  .footer-photos li {\n    margin-bottom: 0;\n  }\n  .footer-descr {\n    margin-bottom: 15px;\n  }\n  #testimonials-box .owl-pagination,\n  #app-testimonial-carousel .owl-pagination {\n    margin-top: 0;\n    position: relative;\n    top: -35px;\n  }\n  body .container {\n    padding-left: 30px;\n    padding-right: 30px;\n  }\n}\n\n@media screen and (max-width: 640px) {\n\n    span.back-text {\n        display: none;\n    }\n\n    .main-navigation .fa {\n        font-size: 24px;\n    }\n\n  div.intro-content {\n    padding-bottom: 90px;\n    padding-top: 90px;\n    font-family: 'Source Sans Pro';\n    position: relative;\n    top: 0;\n    -ms-transform: translateY(0); /* IE 9 */\n    -webkit-transform: translateY(0); /* Chrome, Safari, Opera */\n    transform: translateY(0);\n    margin-top: 0;\n  }\n\n  .project-picture {\n    margin-bottom: 30px;\n  }\n  .project-pictures {\n    padding-bottom: 60px;\n  }\n  .about-text-col {\n    margin-bottom: 30px;\n  }\n  .about-project-header {\n    padding-bottom: 15px;\n  }\n  .pp_pic_holder.pp_default {\n    left: 0!important;\n    overflow: hidden;\n    width: 100%!important;\n  }\n  div.pp_default .pp_content_container .pp_left {\n    padding-left: 0!important;\n  }\n  div.pp_default .pp_content_container .pp_right {\n    padding-right: 0!important;\n  }\n  .pp_content {\n    height: auto!important;\n    width: 100%!important;\n  }\n  .pp_fade {\n    height: 100%!important;\n    width: 100%!important;\n  }\n  a.pp_expand,\n  a.pp_contract,\n  .pp_hoverContainer,\n  .pp_gallery,\n  .pp_top,\n  .pp_bottom {\n    display: none!important;\n  }\n  #pp_full_res img {\n    height: auto!important;\n    width: 100%!important;\n  }\n  .pp_details {\n    background-color: #fff;\n    margin-top: -2px!important;\n    padding: 10px 4% 10px 3%;\n    width: 100%!important;\n  }\n  a.pp_close {\n    right: 7%!important;\n    top: 10px!important;\n  }\n}\n@media screen and (max-width: 480px) {\n\n\n\n  div.macbook {\n    background: none;\n    height: auto;\n    padding: 10px 0 55px;\n    width: 100%;\n  }\n  .macbook-image {\n    display: none;\n  }\n  .macbook-play-icon {\n    top: auto;\n  }\n  a.play-icon {\n    color: #1b1b1b;\n    left: auto;\n    position: relative;\n  }\n}\n@media screen and (max-width: 320px) {\n  body .intro-services {width: 100% !important;}\n  body .work {width: 100%;}\n\n  ul.mt-features li {\n    width: 100%;\n  }\n  h3 {\n    font-size: 11px;\n  }\n}\n@media only screen and (max-width: 520px) {\n  .mt-pricing-table > div {\n    margin-bottom: 25px;\n  }\n  .mt-callout-caption {\n    text-align: center;\n  }\n  .mt-callout-button {\n    display: block;\n    float: none;\n    text-align: center;\n  }\n\n}\n@media only screen and (max-width: 959px) {\n  .mt-hidden-desktop {\n    display: block;\n  }\n  .mt-visible-desktop {\n    display: none;\n  }\n}\n@media only screen and (min-width: 768px) and (max-width: 959px) {\n  .mt-hidden-desktop {\n    display: block;\n  }\n  .mt-visible-desktop {\n    display: none;\n  }\n  .mt-hidden-tablet {\n    display: none;\n  }\n}\n@media only screen and (max-width: 767px) {\n  .mt-hidden-desktop {\n    display: block;\n  }\n  .mt-visible-desktop {\n    display: none;\n  }\n  .mt-hidden-phone {\n    display: none;\n  }\n}\n@media only screen and (min-width: 768px) {\n  .mt-top {\n    bottom: 20px;\n    right: 20px;\n  }\n}\n@media only screen and (min-width: 1024px) {\n  .mt-top {\n    bottom: 30px;\n    height: 60px;\n    right: 30px;\n    width: 60px;\n  }\n}\n@media screen and (min-width: 320px) and (max-width: 414px) {\n  ul.mt-features.inlined li {\n    width: 33%;\n  }\n  body .work {\n    display: block;\n    margin: auto;\n  }\n  .mt-team {\n    padding-bottom: 30px;\n  }\n  .mt-team-image img {\n    width: 100%;\n  }\n  body .mt-team-description {\n    padding: 14px 0!important;\n  }\n  .mt-team-member-name,\n  .mt-team-member-description {\n    padding-left: 0;\n  }\n  .mt-team-member-icons {\n    left: 20px!important;\n  }\n  .footer-photos li {\n    margin-top: 5px;\n  }\n}\n@media screen and (max-width: 320px) {\n\n  body .work {width: 100%;}\n  body .intro-services.col-xs-4 {width: 100%;}\n  ul.mt-features.inlined li {\n    width: 50%;\n  }\n  .mt-team {\n    padding-bottom: 30px;\n  }\n  .mt-team-image img {\n    width: 100%;\n  }\n  body .mt-team-description {\n    padding: 30px 15px 30px 0 !important;\n  }\n  .mt-team-member-name,\n  .mt-team-member-description {\n    padding-left: 0;\n  }\n  .mt-team-member-icons {\n    left: 20px!important;\n  }\n  .footer-photos li {\n    margin-top: 5px;\n  }\n}\n@media only screen and (min-width: 768px) {\n  .mt-top {\n    bottom: 20px;\n    right: 20px;\n  }\n  .project-carousel .owl-item {\n    overflow: hidden;\n  }\n  #header-wrap .container,\n  .intro-services .col-md-12 {\n    padding-left: 0;\n    padding-right: 0;\n  }\n}\n@media only screen and (min-width: 1024px) {\n  .mt-top {\n    bottom: 30px;\n    height: 60px;\n    right: 30px;\n    width: 60px;\n  }\n}\n\n/* Pagination on blog */\nul.page-numbers {\n  list-style: none;\n  margin: 15px auto;\n}\n\n.page-numbers:after {\n  content: \".\";\n  display: block;\n  clear: both;\n  visibility: hidden;\n  line-height: 0;\n  height: 0;\n}\n\nul.page-numbers li {\n  display: block;\n  float: left;\n  margin: 0 4px 4px 0;\n  text-align: center;\n}\n\n.page-numbers a,\n.page-numbers span {\n  line-height: 1.6em;\n  display: block;\n  padding: 0 6px;\n  height: 24px;\n  line-height: 24px;\n  font-size: 12px;\n  text-decoration: none;\n  font-weight: 400;\n  cursor: pointer;\n  border: 1px solid #CCC;\n  color: #777;\n}\n\n.page-numbers a span { padding: 0 }\n\n.page-numbers a:hover,\n.page-numbers.current,\n.page-numbers.current:hover {\n  color: #000;\n  background: #f7f7f7;\n  text-decoration: none;\n}\n\n.page-numbers:hover { text-decoration: none }\n\n/* 404 error page */\n.error-404, .search-no-results .no-results, .search-results #main .container{\n  text-align: center;\n}\n\n.error-404, .search-no-results .no-results{\n  padding: 200px 0;\n}\n\n.search-results #main{\n  padding: 90px 0;\n}\n\n.error-404 .page-title, .no-results .page-title, .search-results .page-title{\n  text-align: center;\n  color: #2ecc71;\n}\n\n.error-404 .page-content p {\n  margin-bottom: 25px;\n}\n\n.error404 input[type=\"search\"] {\n  border: 1px solid #CCC;\n  padding: 12.5px;\n  font-style: italic;\n  margin-right: 15px;\n  font-weight: 400;\n}\n\n.error404 input[type=\"submit\"] {\n  backface-visibility: hidden;\n  background-color: #2ecc71;\n  border: 2px solid #2ecc71;\n  border-radius: 0;\n  color: #FFF;\n  font-family: 'Source Sans Pro', Arial, sans-serif;\n  font-size: 15px;\n  font-weight: 700;\n  letter-spacing: 1px;\n  overflow: hidden;\n  padding: 14px 44px;\n  position: relative;\n  text-transform: uppercase;\n}\n\n/* Widget: latest posts */\n.macho_widget_latest_posts li {\n  margin: 10px auto;\n}\n\n\n.macho_widget_latest_posts p {\n  color: #B2B2B2;\n  font-size: 12px;\n}\n\n.macho_widget_latest_posts h5 a{color: #EEE;}\n\n/* Social Sharing Box */\n.mt-social-sharing-box {\n    padding: 15px 15px 35px 15px;\n    margin: 40px auto;\n    background-color: #F5F5F5;\n    border-radius: 4px;\n}\n\n    .mt-social-sharing-box a{\n        display: inline-block;\n        margin: 0 7.5px;\n    }\n        .mt-social-sharing-box a:hover i{\n            opacity: .85;\n        }\n\n    .mt-social-sharing-box .fa {\n        font-size: 16px;\n        line-height: 1.5;\n    }\n\n/* User Social Icons */\n.mt-user-social-icons {\n    font-size: 12px;\n    font-style: italic;\n}\n\n.mt-user-social-icons i {\n    margin: 0 2.5px;\n}\n\n/* Related Posts */\n.mt-related-posts {\n    padding: 15px;\n}\n\n    .mt-related-posts .row {\n        border-top: 1px solid #EEE;\n        border-bottom: 1px solid #EEE;\n        margin-bottom: 30px;\n    }\n\n.mt-related-posts h3 {\n    padding: 15px;\n}\n\n    .mt-related-posts img {\n        width: 100%;\n        max-height: 230px;\n    }\n\n    .mt-related-posts ul {\n        padding: 15px 10px;\n    }\n\n    .mt-related-posts ul li {\n        display: block;\n        float: left;\n    }\n\n    .mt-related-posts ul li a {\n        color: #777;\n        font-size: 24px;\n    }\n\n    .mt-custom-pagination{\n        margin: 15px auto;\n    }\n.mt-custom-pagination span{\n    padding: 6px;\n    margin-right: 5px;\n}\n\n    .mt-custom-pagination a {\n        text-decoration: none;\n        color: #777;\n        margin-right: 5px;\n        padding: 3px;\n    }\n\n    .mt-custom-pagination span.current {\n        color: #2ecc71;\n    }\n\n/* Fix for responsive videos */\n.mt-video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; }\n.mt-video-container iframe,\n.mt-video-container object,\n.mt-video-container embed,\n.mt-video-container video { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }\n\n/* Breadcrumbs styling */\n.mt-breadcrumbs {\n    list-style: none;\n    margin: 0 auto;\n    padding: 0;\n    font-family: 'Source Sans Pro';\n    padding: 10px;\n    font-style: italic;\n    border-bottom: 1px solid #EEE;\n}\n\n\n.mt-breadcrumb-prefix {\n  padding-right: 7.5px;\n}\n.mt-breadcrumb-sep {\n  padding: 0 7.5px;\n}\n.mt-breadcrumb-sep:last-child {\n  display: none;\n}\n\n.mt-breadcrumbs a {\n    color: #2ecc71;\n    border-bottom: 1px solid #2ecc71;\n    padding-bottom: 5px;\n}\n\n\n.mt-breadcrumbs span {\n  display: inline-block;\n}\n\n\n.mt-placeholder {\n  max-height: 170px;\n    width: auto !important;\n}\n\n\n/* Lazy Load */\n\n.lazy {display: none;}\n\n/* Minimal Style Preloader CSS */\n.pace {;\n    -webkit-pointer-events: none;\n    pointer-events: none;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    user-select: none;\n}\n\n\n.pace-inactive {;\n    display: none;\n}\n\n\n.pace .pace-progress {;\n    position: fixed;\n    z-index: 2000;\n    top: 0;\n    right: 100%;\n    width: 100%;\n    height: 2px;\n    background-color: #eee;\n}\n\n#page-loader {;\n    position: fixed;\n    height: 100%;\n    width: 100%;\n    z-index: 9999;\n    top: 0;\n    background-color: #EEE;\n}\n\n.logged-in #page-loader {;\n    top: 32px;\n}\n\n#page-loader .loader-logo-name {;\n    position: absolute;\n    top: 40px;\n    left: 0;\n    text-align: center;\n    width: 100%;\n}\n\n#page-loader .loader-logo-name img {;\n    height: 30px;\n}\n\n#page-loader .loader-subtitle {;\n    margin-top: 10px;\n}\n\n#page-loader .loader {;\n    font-weight: 400;\n    color: #000;\n    text-transform: uppercase;\n    letter-spacing: 0.1em;\n    font-size: 32px;\n    line-height: 40px;\n    position: absolute;\n    top: 50%;\n    margin-top: -20px;\n    left: 0;\n    text-align: center;\n    width: 100%;\n}\n\n/* Video Backgrounds */\n\n#video-wrapper-intro {\n    position: absolute;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n\n#video-wrapper-intro iframe {\n    margin-left: 0 !important;\n}\n\n/* Video Controls */\n.video-wrapper-controls {\n    border-top: 1px solid #FFF;\n    border-top: 1px solid rgba(255,255,255,.1);\n    position: absolute;\n    left: 0;\n    width: 100%;\n    bottom: 0;\n    height: 45px;\n    line-height: 45px;\n    background-color: transparent;\n    background-image: url('../images/video-player/cbimage.jpg');\n    background-repeat: repeat-x;\n    background-size: auto;\n    background-position: top left;\n    z-index: 10;\n}\n\n.mt-video-control {\n    background: transparent;\n    border: transparent;\n    color: #FFF;\n    font-size: 16px;\n}\n\n@media (max-width: 1024px) {\n\n    .intro-content {\n        padding-top: 170px;\n    }\n\n    .intro-services{display: none;}\n\n    #video-wrapper-intro iframe {top: 180px;}\n\n}\n\n.mt-rounded-image {\n    display: inline-block;\n    height: auto;\n    padding: 0 15px;\n    position: relative;\n    text-align: center;\n}\n\n/* Front Page Overlay */\n\n#intro .overlay {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n    z-index: 9;\n}\n#intro > .container {\n  z-index: 10;\n  position: relative;\n}\n.no-more {\n    float: left;\n    padding-left: 15px;\n    margin-top: 1.5em;\n    font-family: 'Source Sans Pro', sans-serif;\n    font-size: 20px;\n}\n",
-			"file": "/D/Documents/Downloads/pixova/layout/css/style.css",
-			"file_size": 69473,
-			"file_write_time": 130920983369178112,
-			"settings":
-			{
-				"buffer_size": 69473,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/WebBuild/oasis/pixova/layout/css/animate.css",
-			"settings":
-			{
-				"buffer_size": 68202,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/WebBuild/oasis/pixova/layout/js/bxslider/bxslider.js",
-			"settings":
-			{
-				"buffer_size": 65422,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/WebBuild/oasis/pixova/layout/js/preloader.js",
-			"settings":
-			{
-				"buffer_size": 554,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/WebBuild/oasis/pixova/layout/js/wow/wow.js",
-			"settings":
-			{
-				"buffer_size": 18609,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/WebBuild/oasis/pixova/layout/js/plugins.js",
-			"settings":
-			{
-				"buffer_size": 11659,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/WebBuild/oasis/pixova/layout/js/scripts.js",
-			"settings":
-			{
-				"buffer_size": 11611,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/Documents/Downloads/8be-1b6-myftpupload-com-1447194307-complete-2015-11-10-14-29-58/wp-config.php",
-			"settings":
-			{
-				"buffer_size": 2962,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/WebBuild/oasis/style.css",
-			"settings":
-			{
-				"buffer_size": 69473,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<html>\n<head>\n<style>\np{\n	font-family: iron;\n	font-size: 100%\n  src: url(../fonts/Iron.ttf);\n  font-style: normal;\n  font-weight: normal; \n  color: green\n}\n}\n</style>\n</head>\n<body>\n<p>\nChelsea Wang \n</p>\n</body>\n</html>",
-			"settings":
-			{
-				"buffer_size": 220,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 20133,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "about/about.html",
-			"settings":
-			{
-				"buffer_size": 5920,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/WebBuild/py2.py",
-			"settings":
-			{
-				"buffer_size": 365,
+				"buffer_size": 1211,
 				"line_ending": "Windows",
-				"name": "import urllib"
+				"name": "a=\"sad\""
 			}
 		},
 		{
-			"file": "css/styles.css",
+			"file": "js/main.js",
 			"settings":
 			{
-				"buffer_size": 13767,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/WebBuild/test5.html",
-			"settings":
-			{
-				"buffer_size": 354,
+				"buffer_size": 5627,
 				"line_ending": "Windows"
 			}
 		}
@@ -235,7 +120,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 257.0,
+		"height": 392.0,
 		"last_filter": "Package Control: ",
 		"selected_items":
 		[
@@ -288,13 +173,14 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 528.0
+		"width": 416.0
 	},
 	"console":
 	{
 		"height": 209.0,
 		"history":
 		[
+			"import mysql.connector",
 			"open py1.py",
 			"py1.py",
 			"open",
@@ -320,6 +206,47 @@
 	},
 	"file_history":
 	[
+		"/D/WebBuild/lee5214-2/index.html",
+		"/D/WebBuild/lee5214-2/careers/resume.html",
+		"/D/WebBuild/lee5214-2/careers/web/viewer.js",
+		"/D/Python_Project/appc1.py",
+		"/D/Python_Project/csv_to_xlsx.py",
+		"/D/Python_Project/csvdb.py",
+		"/D/Python_Project/1.py",
+		"/D/Python_Project/k.py",
+		"/D/Documents/Downloads/Dump20151228.txt",
+		"/C/Users/Administrator/Desktop/x.py",
+		"/D/WebBuild/python_practice/import MySQLdb.py",
+		"/D/WebBuild/python_practice/import mysql.connector",
+		"/D/Xampp/phpMyAdmin/config.inc.php",
+		"/D/WebBuild/test5.html",
+		"/D/WebBuild/lee5214-2/css/styles.css",
+		"/D/WebBuild/py2.py",
+		"/D/WebBuild/lee5214-2/about/about.html",
+		"/D/WebBuild/lee5214-2/under_construction/css/component.css",
+		"/D/WebBuild/lee5214-2/under_construction/js/demo-1.js",
+		"/D/WebBuild/lee5214-2/under_construction/js/demo-2.js",
+		"/D/WebBuild/lee5214-2/under_construction/css/demo.css",
+		"/D/WebBuild/lee5214-2/under_construction/pre-page.html",
+		"/D/WebBuild/lee5214-2/under_construction/index.html",
+		"/D/WebBuild/lee5214-2/under_construction/pre_web_lizi.html",
+		"/D/WebBuild/oasis/style.css",
+		"/D/Documents/Downloads/8be-1b6-myftpupload-com-1447194307-complete-2015-11-10-14-29-58/wp-config.php",
+		"/D/WebBuild/oasis/pixova/layout/js/scripts.js",
+		"/D/WebBuild/oasis/pixova/layout/js/plugins.js",
+		"/D/WebBuild/oasis/pixova/layout/js/wow/wow.js",
+		"/D/WebBuild/oasis/pixova/layout/js/preloader.js",
+		"/D/WebBuild/oasis/pixova/layout/js/bxslider/bxslider.js",
+		"/D/WebBuild/oasis/pixova/layout/css/animate.css",
+		"/D/Documents/Downloads/pixova/layout/css/style.css",
+		"/D/Documents/Downloads/oasislawgroup.wordpress.2015-11-10 (1).xml",
+		"/D/Documents/Downloads/201410161539/201410161539/index2.html",
+		"/D/WebBuild/lee5214-2/careers/web/resume.html",
+		"/D/WebBuild/py1.py",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/viewer.js",
+		"/D/WebBuild/lee5214-2/careers/web/viewer.css",
+		"/D/WebBuild/lee5214-2/careers/web/l10n.js",
+		"/D/WebBuild/lee5214-2/careers/web/compatibility.js",
 		"/E/Pictures/2015-03/IMG_1739.JPG",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/D/Documents/Downloads/leetcode 代码和注释/src/frequency_1/BestTimetoBuyandSellStock.java",
@@ -338,14 +265,12 @@
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings",
 		"/D/WebBuild/lee5214-2/testjs.js",
 		"/D/Documents/GitHub/Coursera-Projects-HTML-CSS-and-JavaScript/part2Css.scss",
-		"/D/WebBuild/lee5214-2/index.html",
 		"/D/Documents/GitHub/web-project1/web-project1/personalWebProject/zifuSign",
 		"/D/Documents/GitHub/Coursera-Projects-HTML-CSS-and-JavaScript/part1.html",
 		"/D/Documents/GitHub/Coursera-Projects-HTML-CSS-and-JavaScript/part2.html",
 		"/D/WebBuild/test4.html",
 		"/D/Documents/GitHub/web-project1/web-project1/personalWebProject/testjs.js",
 		"/D/WebBuild/php_test/backup-1.28.2015_10-08-18_aquacraf/backup-1.28.2015_10-08-18_aquacraf/_notes/dwsync.xml",
-		"/D/WebBuild/lee5214-2/css/styles.css",
 		"/D/WebBuild/lee5214-2/js/animation.js",
 		"/D/WebBuild/test5.js",
 		"/D/WebBuild/lee5214-2/sass/styles.scss",
@@ -401,6 +326,50 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"cong",
+			"cong li",
+			"TRM_STATUS_OFFLINE",
+			"schconst",
+			"`",
+			"time_zone",
+			"old",
+			"time_zone",
+			"UTC",
+			"time_zong",
+			"timezong",
+			"zone",
+			"00:",
+			"UTC",
+			"utc",
+			"1064",
+			"com",
+			"40000 ALTER TABLE `msc_bid` ENABLE KEYS",
+			"create",
+			"csv",
+			"sorted",
+			"user_name",
+			"email",
+			"from",
+			"thin",
+			"demo",
+			"demo-2",
+			"font",
+			"cong",
+			"Cong",
+			"congliresume",
+			"congli",
+			"pdf",
+			"url",
+			"compr",
+			"CongLiresume",
+			"resume",
+			"Cong",
+			"Congli",
+			"Cong",
+			"Con",
+			"congli",
+			"bao",
+			"(.",
 			"node",
 			"ead",
 			"index",
@@ -488,180 +457,55 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/D/WebBuild/py1.py",
+					"file": "/D/WebBuild/python_practice/1.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13,
+						"buffer_size": 1211,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12,
-								12
+								56,
+								56
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"force_encoding": "UTF-8",
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "a=\"sad\"",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/D/Documents/Downloads/oasislawgroup.wordpress.2015-11-10 (1).xml",
+					"file": "js/main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 332515,
+						"buffer_size": 5627,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								252118,
-								252118
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/XML/XML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 830.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/D/Documents/Downloads/pixova/layout/css/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 69473,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67265,
-								67270
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 82432.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/D/WebBuild/oasis/pixova/layout/css/animate.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 68202,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67670,
-								67670
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 72194.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/D/WebBuild/oasis/pixova/layout/js/bxslider/bxslider.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 65422,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								205,
-								205
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 36762.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/D/WebBuild/oasis/pixova/layout/js/preloader.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 554,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								254,
-								254
+								494,
+								494
 							]
 						],
 						"settings":
@@ -673,339 +517,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/D/WebBuild/oasis/pixova/layout/js/wow/wow.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 18609,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15647,
-								15656
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9251.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/D/WebBuild/oasis/pixova/layout/js/plugins.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11659,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								282,
-								282
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5106.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/D/WebBuild/oasis/pixova/layout/js/scripts.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11611,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3864.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/D/Documents/Downloads/8be-1b6-myftpupload-com-1447194307-complete-2015-11-10-14-29-58/wp-config.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2962,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								580,
-								580
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 828.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/D/WebBuild/oasis/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 69473,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8743,
-								8755
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 12109.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 220,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								44,
-								44
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20133,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3059.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "about/about.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5920,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								244,
-								247
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "/D/WebBuild/py2.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 365,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								137,
-								137
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"auto_name": "import urllib",
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "css/styles.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13767,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1347,
-								1351
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1150.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "/D/WebBuild/test5.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 354,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								354,
-								354
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"auto_name": "",
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
 					"type": "text"
 				}
 			]
@@ -1044,7 +556,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 270.0
+		"height": 148.0
 	},
 	"output.find_results":
 	{
