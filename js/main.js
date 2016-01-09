@@ -7,13 +7,14 @@
 	});
 
 	$(document).ready(function(){
-		$("#bg").css('background-image','url(img/bgimg/bg'+Math.floor(Math.random()*24+1)+'.jpg)');
+		var def_picNum=35;
+		$("#bg").css('background-image','url(img/bgimg/bg'+Math.floor(Math.random()*def_picNum+1)+'.jpg)');
 		setInterval(function(){
-			var ran=Math.floor(Math.random()*24+1);
+			var ran=Math.floor(Math.random()*def_picNum+1);
 			$("#bg").fadeOut(4000,function(){
-				$(this).css('background-image','url(img/bgimg/bg'+ran+'.jpg)' ).fadeIn(2000);
+				$(this).css('background-image','url(img/bgimg/bg'+ran+'.jpg)' ).fadeIn(1000);
 			});	
-		},12000);
+		},10000);
 
 	});
 		
